@@ -9,8 +9,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2007",
-                  "description": "I3D Example-based model synthesis",
+                  "title": "model-synthesis",
+                  "description": "I3D  Example-based model synthesis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -24,8 +24,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2017",
-                  "description": "TOG Fast Weather Simulation for Inverse Procedural Design of 3D Urban Models",
+                  "title": "weather_simulation",
+                  "description": "TOG  Fast Weather Simulation for Inverse Procedural Design of 3D Urban Models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -39,7 +39,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "infinigen",
                   "description": "CVPR Infinigen Infinite Photorealistic Worlds using Procedural Generation",
                   "children": [],
                   "repo_info": {
@@ -49,13 +49,13 @@
                     "last_commit": "2026-08-05T01:40:06Z",
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7215
+                    "stars": 7216
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "TOG Large-scale terrain authoring through interactive erosion simulation",
+                  "title": "StreamPowerErosion",
+                  "description": "TOG  Large-scale terrain authoring through interactive erosion simulation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -69,7 +69,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "ProcGS",
                   "description": "CVPRW Proc-GS Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians",
                   "children": [],
                   "repo_info": {
@@ -84,7 +84,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "VoxCity",
                   "description": "CEUS VoxCity VoxCity: A seamless framework for open geospatial data integration, grid-based semantic 3D city model generation, and urban environment simulation",
                   "children": [],
                   "repo_info": {
@@ -94,7 +94,7 @@
                     "last_commit": "2026-08-22T01:33:25Z",
                     "owner": "kunifujiwara",
                     "repo": "VoxCity",
-                    "stars": 532
+                    "stars": 533
                   }
                 }
               ],
@@ -106,8 +106,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "CVPR Human-centric Indoor Scene Synthesis Using Stochastic Grammar",
+                  "title": "human-centric-scene-synthesis",
+                  "description": "CVPR  Human-centric Indoor Scene Synthesis Using Stochastic Grammar",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -121,8 +121,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018",
-                  "description": "VR Automatic Furniture Arrangement Using Greedy Cost Minimization",
+                  "title": "Furniture-Optimization",
+                  "description": "VR  Automatic Furniture Arrangement Using Greedy Cost Minimization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -136,7 +136,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "3DScenePlatform",
                   "description": "MM MageAdd MageAdd: Real-Time Interaction Simulation for Scene Synthesis",
                   "children": [],
                   "repo_info": {
@@ -151,7 +151,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "procthor",
                   "description": "NeurIPS ProcTHOR ProcTHOR: Large-Scale Embodied AI Using Procedural Generation",
                   "children": [],
                   "repo_info": {
@@ -161,12 +161,12 @@
                     "last_commit": "2023-04-07T11:02:38Z",
                     "owner": "allenai",
                     "repo": "procthor",
-                    "stars": 463
+                    "stars": 464
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "infinigen",
                   "description": "CVPR Infinigen Indoors Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation",
                   "children": [],
                   "repo_info": {
@@ -176,12 +176,12 @@
                     "last_commit": "2026-08-05T01:40:06Z",
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7215
+                    "stars": 7216
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "indoor-scene-generation-eai",
                   "description": "arXiv LUMINOUS LUMINOUS: Indoor Scene Generation for Embodied AI Challenges",
                   "children": [],
                   "repo_info": {
@@ -203,7 +203,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "LayoutGPT",
                   "description": "NeurIPS LayoutGPT LayoutGPT: Compositional Visual Planning and Generation with Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -213,12 +213,12 @@
                     "last_commit": "2024-04-10T05:17:09Z",
                     "owner": "UCSB-AI",
                     "repo": "LayoutGPT",
-                    "stars": 405
+                    "stars": 406
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "GraphDreamer",
                   "description": "CVPR GraphDreamer GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs",
                   "children": [],
                   "repo_info": {
@@ -233,7 +233,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "anyhome_github",
                   "description": "ECCV AnyHome AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes",
                   "children": [],
                   "repo_info": {
@@ -248,7 +248,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "SceneTeller",
                   "description": "ECCV SceneTeller SceneTeller: Language-to-3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -263,7 +263,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "IDesign",
                   "description": "ECCV I-Design I-Design: Personalized LLM Interior Designer",
                   "children": [],
                   "repo_info": {
@@ -278,8 +278,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
-                  "description": "MM Controllable Procedural Generation of Landscapes",
+                  "title": "ControllableLandscape",
+                  "description": "MM  Controllable Procedural Generation of Landscapes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -293,7 +293,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "3DGPT",
                   "description": "3DV 3D-GPT 3D-GPT: Procedural 3D Modeling with Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -308,7 +308,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "SceneX",
                   "description": "AAAI SceneX SceneX: Procedural Controllable Large-scale Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -323,8 +323,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "AAAI Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model",
+                  "title": "Hierarchically-Structured-Open-Vocabulary-Indoor-Scene-Synthesis",
+                  "description": "AAAI  Hierarchically-Structured Open-Vocabulary Indoor Scene Synthesis with Pre-trained Large Language Model",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -338,8 +338,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "CVPR Global-Local Tree Search in VLMs for 3D Indoor Scene Generation",
+                  "title": "TreeSearchGen",
+                  "description": "CVPR  Global-Local Tree Search in VLMs for 3D Indoor Scene Generation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -353,7 +353,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "LayoutVLM",
                   "description": "CVPR LayoutVLM LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models",
                   "children": [],
                   "repo_info": {
@@ -368,7 +368,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "scene-language",
                   "description": "CVPR The Scene Language The Scene Language: Representing Scenes with Programs, Words, and Embeddings",
                   "children": [],
                   "repo_info": {
@@ -383,7 +383,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "SceneWeaver",
                   "description": "NeurIPS SceneWeaver SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent",
                   "children": [],
                   "repo_info": {
@@ -393,12 +393,12 @@
                     "last_commit": "2025-11-13T11:47:51Z",
                     "owner": "Scene-Weaver",
                     "repo": "SceneWeaver",
-                    "stars": 165
+                    "stars": 166
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "MesaTask",
                   "description": "NeurIPS MesaTask MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning",
                   "children": [],
                   "repo_info": {
@@ -413,7 +413,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "OptiScene",
                   "description": "NeurIPS OptiScene OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization",
                   "children": [],
                   "repo_info": {
@@ -428,7 +428,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DirectLayout",
                   "description": "NeurIPS DirectLayout Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning",
                   "children": [],
                   "repo_info": {
@@ -443,7 +443,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "BuildingBlock",
                   "description": "SIGGRAPH BuildingBlock BuildingBlock",
                   "children": [],
                   "repo_info": {
@@ -458,7 +458,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "respace",
                   "description": "ICLR ReSpace ReSpace: Text-Driven 3D Scene Synthesis and Editing with Preference Alignment",
                   "children": [],
                   "repo_info": {
@@ -473,7 +473,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "scenesmith",
                   "description": "ICML SceneSmith SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes",
                   "children": [],
                   "repo_info": {
@@ -488,7 +488,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "3D-Generalist",
                   "description": "3DV 3D-Generalist 3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds",
                   "children": [],
                   "repo_info": {
@@ -503,7 +503,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "LandCraft_26",
                   "description": "AAAI LandCraft LandCraft: Designing the Structured 3D Landscapes via Text Guidance",
                   "children": [],
                   "repo_info": {
@@ -518,7 +518,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "reason-3d",
                   "description": "AAAI Reason-3D Text-to-Scene with Large Reasoning Models",
                   "children": [],
                   "repo_info": {
@@ -533,7 +533,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "UrbanWorld2.0",
                   "description": "CVPR RAISECity RAISECity: A Multimodal Agent Framework for Reality-Aligned 3D World Generation at City-Scale",
                   "children": [],
                   "repo_info": {
@@ -548,7 +548,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "LaviGen",
                   "description": "CVPR LaviGen Repurposing 3D Generative Model for Autoregressive Layout Generation",
                   "children": [],
                   "repo_info": {
@@ -563,7 +563,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "MajutsuCity",
                   "description": "CVPR MajutsuCity MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts",
                   "children": [],
                   "repo_info": {
@@ -578,7 +578,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "sage",
                   "description": "CVPR SAGE SAGE: Scalable Agentic 3D Scene Generation for Embodied AI",
                   "children": [],
                   "repo_info": {
@@ -593,7 +593,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "NaLA-code",
                   "description": "ECCV NaLA NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -608,7 +608,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "R3L",
                   "description": "ICML R3L R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations",
                   "children": [],
                   "repo_info": {
@@ -623,7 +623,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "Code2Worlds",
                   "description": "ICML Code2Worlds Code2Worlds: Empowering Coding LLMs for 4D World Generation",
                   "children": [],
                   "repo_info": {
@@ -638,7 +638,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "CityCraft",
                   "description": "arXiv CityCraft CityCraft: A Real Crafter for 3D City Generation",
                   "children": [],
                   "repo_info": {
@@ -653,7 +653,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "CityX-Lab",
                   "description": "arXiv CityX CityX: Controllable Procedural Content Generation for Unbounded 3D Cities",
                   "children": [],
                   "repo_info": {
@@ -668,7 +668,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Graph-Canvas",
                   "description": "arXiv GraphCanvas3D Graph Canvas for Controllable 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -683,7 +683,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "UrbanWorld",
                   "description": "arXiv UrbanWorld UrbanWorld: An Urban World Model for 3D City Generation",
                   "children": [],
                   "repo_info": {
@@ -698,7 +698,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "cube",
                   "description": "arXiv Cube Cube: A Roblox View of 3D Intelligence",
                   "children": [],
                   "repo_info": {
@@ -708,12 +708,12 @@
                     "last_commit": "2026-05-28T03:37:24Z",
                     "owner": "Roblox",
                     "repo": "cube",
-                    "stars": 1239
+                    "stars": 1240
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "HLG",
                   "description": "arXiv HLG HLG: Comprehensive 3D Room Construction via Hierarchical Layout Generation",
                   "children": [],
                   "repo_info": {
@@ -728,7 +728,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "causalstruct",
                   "description": "arXiv CausalStruct Causal Reasoning Elicits Controllable 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -743,7 +743,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "SceneFoundry",
                   "description": "arXiv SceneFoundry SceneFoundry: Generating Interactive Infinite 3D Worlds",
                   "children": [],
                   "repo_info": {
@@ -758,7 +758,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "MANSION",
                   "description": "arXiv MANSION MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks",
                   "children": [],
                   "repo_info": {
@@ -773,7 +773,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "SceneAssistant",
                   "description": "arXiv SceneAssistant SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -788,7 +788,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "SceneCode",
                   "description": "arXiv SceneCode SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects",
                   "children": [],
                   "repo_info": {
@@ -798,12 +798,12 @@
                     "last_commit": "2026-06-18T02:41:29Z",
                     "owner": "wangpuyi",
                     "repo": "SceneCode",
-                    "stars": 47
+                    "stars": 48
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "Code-as-Room",
                   "description": "arXiv Code-as-Room Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis",
                   "children": [],
                   "repo_info": {
@@ -818,8 +818,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
-                  "description": "arXiv Global-Local Monte Carlo Tree Search in Vision-Language Models for Text-to-3D Indoor Scene Generation",
+                  "title": "TreeSearchGen",
+                  "description": "arXiv  Global-Local Monte Carlo Tree Search in Vision-Language Models for Text-to-3D Indoor Scene Generation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -833,7 +833,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "SceneConductor",
                   "description": "arXiv SceneConductor SceneConductor: 3D Scene Generation from a Single Image with Multi-Agent Orchestration",
                   "children": [],
                   "repo_info": {
@@ -848,7 +848,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "SceneReVis",
                   "description": "arXiv SceneReVis SceneReVis: A Self-Reflective Vision-Grounded Framework for 3D Indoor Scene Synthesis via Multi-turn RL",
                   "children": [],
                   "repo_info": {
@@ -863,7 +863,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "Hunyuan3D-WorldClaw",
                   "description": "arXiv WorldClaw WorldClaw: Agentic 3D Open-World Generation at Scale",
                   "children": [],
                   "repo_info": {
@@ -873,7 +873,7 @@
                     "last_commit": "2026-08-13T05:47:55Z",
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1016
+                    "stars": 1058
                   }
                 }
               ],
@@ -892,7 +892,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2018",
+                  "title": "deep-synth",
                   "description": "SIGGRAPH DeepSynth Deep Convolutional Priors for Indoor Scene Synthesis",
                   "children": [],
                   "repo_info": {
@@ -907,7 +907,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
+                  "title": "fast-synth",
                   "description": "CVPR FastSynth Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models",
                   "children": [],
                   "repo_info": {
@@ -922,7 +922,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "sceneformer",
                   "description": "3DV SceneFormer SceneFormer: Indoor Scene Generation with Transformers",
                   "children": [],
                   "repo_info": {
@@ -937,7 +937,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "Sync2Gen",
                   "description": "ICCV Sync2Gen Scene Synthesis via Uncertainty-Driven Attribute Synchronization",
                   "children": [],
                   "repo_info": {
@@ -952,7 +952,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "ATISS",
                   "description": "NeurIPS ATISS ATISS: Autoregressive Transformers for Indoor Scene Synthesis",
                   "children": [],
                   "repo_info": {
@@ -967,7 +967,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "Pose2Room",
                   "description": "ECCV Pose2Room Pose2Room: Understanding 3D Scenes from Human Activities",
                   "children": [],
                   "repo_info": {
@@ -982,7 +982,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "summon",
                   "description": "SIGGRAPH Asia SUMMON Scene Synthesis from Human Motion",
                   "children": [],
                   "repo_info": {
@@ -997,8 +997,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "CVPR Learning 3D Scene Priors with 2D Supervision",
+                  "title": "ScenePriors",
+                  "description": "CVPR  Learning 3D Scene Priors with 2D Supervision",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1012,7 +1012,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "MIME",
                   "description": "CVPR MIME MIME: Human-Aware 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1027,8 +1027,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "NeurIPS Language-driven Scene Synthesis using Multi-conditional Diffusion Model",
+                  "title": "LSDM",
+                  "description": "NeurIPS  Language-driven Scene Synthesis using Multi-conditional Diffusion Model",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1042,7 +1042,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "RoomDesigner",
                   "description": "3DV RoomDesigner RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1057,7 +1057,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DiffuScene",
                   "description": "CVPR DiffuScene DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis",
                   "children": [],
                   "repo_info": {
@@ -1072,7 +1072,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "SceneWiz3D",
                   "description": "CVPR SceneWiz3D SceneWiz3D: Towards Text-guided 3D Scene Composition",
                   "children": [],
                   "repo_info": {
@@ -1087,7 +1087,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "PhyScene",
                   "description": "CVPR PhyScene PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI",
                   "children": [],
                   "repo_info": {
@@ -1102,7 +1102,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DreamScene",
                   "description": "ECCV DreamScene DreamScene: 3D Gaussian-Based Text-to-3D Scene Generation via Formation Pattern Sampling",
                   "children": [],
                   "repo_info": {
@@ -1117,7 +1117,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "GALA3D",
                   "description": "ICML GALA3D GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting",
                   "children": [],
                   "repo_info": {
@@ -1132,7 +1132,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Ctrl-Room",
                   "description": "3DV Ctrl-Room Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints",
                   "children": [],
                   "repo_info": {
@@ -1147,7 +1147,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "SceneFactor",
                   "description": "CVPR SceneFactor SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1162,7 +1162,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "CASA-GPT",
                   "description": "CVPR CASAGPT CASAGPT: Cuboid Arrangement and Scene Assembly for Interior Design",
                   "children": [],
                   "repo_info": {
@@ -1177,8 +1177,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "CoRL Steerable Scene Generation with Post Training and Inference-Time Search",
+                  "title": "steerable-scene-generation",
+                  "description": "CoRL  Steerable Scene Generation with Post Training and Inference-Time Search",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1192,7 +1192,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "factored_scenes",
                   "description": "NeurIPS FactoredScenes From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries",
                   "children": [],
                   "repo_info": {
@@ -1214,7 +1214,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2019",
+                  "title": "meta-sim",
                   "description": "ICCV Meta-Sim Meta-Sim: Learning to Generate Synthetic Datasets",
                   "children": [],
                   "repo_info": {
@@ -1229,7 +1229,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
+                  "title": "GRAINS",
                   "description": "SIGGRAPH GRAINS GRAINS: Generative Recursive Autoencoders for INdoor Scenes",
                   "children": [],
                   "repo_info": {
@@ -1244,7 +1244,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2019",
+                  "title": "planit",
                   "description": "SIGGRAPH PlanIT PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks",
                   "children": [],
                   "repo_info": {
@@ -1259,7 +1259,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
+                  "title": "3D_SLN",
                   "description": "CVPR 3D-SLN End-to-End Optimization of Scene Layout",
                   "children": [],
                   "repo_info": {
@@ -1274,7 +1274,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
+                  "title": "meta-sim-structure",
                   "description": "ECCV Meta-Sim 2 Meta-Sim 2 Unsupervised Learning of Scene Structure for Synthetic Data Generation",
                   "children": [],
                   "repo_info": {
@@ -1289,7 +1289,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "graphto3d",
                   "description": "ICCV Graph-to-3D Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs",
                   "children": [],
                   "repo_info": {
@@ -1304,7 +1304,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "commonscenes",
                   "description": "NeurIPS CommonScenes CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1319,7 +1319,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "SceneHGN",
                   "description": "TPAMI SceneHGN SceneHGN: Hierarchical Graph Networks for 3D Indoor Scene Generation With Fine-Grained Geometry",
                   "children": [],
                   "repo_info": {
@@ -1334,7 +1334,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "echoscene",
                   "description": "ECCV EchoScene EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1349,7 +1349,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "InstructScene",
                   "description": "ICLR InstructScene InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior",
                   "children": [],
                   "repo_info": {
@@ -1364,7 +1364,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "MMGDreamer",
                   "description": "AAAI MMGDreamer MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1379,7 +1379,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "FreeScene",
                   "description": "CVPR FreeScene FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts",
                   "children": [],
                   "repo_info": {
@@ -1394,8 +1394,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "ICCV Controllable 3D Outdoor Scene Generation via Scene Graphs",
+                  "title": "control-3d-scene",
+                  "description": "ICCV  Controllable 3D Outdoor Scene Generation via Scene Graphs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1409,7 +1409,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Imaginarium",
                   "description": "TOG Imaginarium Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation",
                   "children": [],
                   "repo_info": {
@@ -1431,7 +1431,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "SGSDI",
                   "description": "ICCV SGSDI Indoor Scene Generation from a Collection of Semantic-Segmented Depth Images",
                   "children": [],
                   "repo_info": {
@@ -1446,7 +1446,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "imaginaire",
                   "description": "ICCV GANcraft GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds",
                   "children": [],
                   "repo_info": {
@@ -1461,7 +1461,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "discoscene",
                   "description": "CVPR DisCoScene DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis",
                   "children": [],
                   "repo_info": {
@@ -1476,7 +1476,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "cc3d",
                   "description": "ICCV CC3D CC3D: Layout-Conditioned Generation of Compositional 3D Scenes",
                   "children": [],
                   "repo_info": {
@@ -1491,7 +1491,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "Set-the-Scene",
                   "description": "ICCV Set-the-Scene Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes",
                   "children": [],
                   "repo_info": {
@@ -1506,7 +1506,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "UrbanGIRAFFE",
                   "description": "ICCV UrbanGIRAFFE UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields",
                   "children": [],
                   "repo_info": {
@@ -1521,7 +1521,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "SceneDreamer",
                   "description": "TPAMI SceneDreamer SceneDreamer: Unbounded 3D Scene Generation From 2D Image Collections",
                   "children": [],
                   "repo_info": {
@@ -1536,7 +1536,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "CityDreamer",
                   "description": "CVPR CityDreamer CityDreamer: Compositional Generative Model of Unbounded 3D Cities",
                   "children": [],
                   "repo_info": {
@@ -1551,7 +1551,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "BerfScene",
                   "description": "CVPR BerfScene BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1566,7 +1566,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "SceneCraft",
                   "description": "NeurIPS SceneCraft SceneCraft: Layout-Guided 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1581,7 +1581,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "BlockFusion",
                   "description": "SIGGRAPH BlockFusion BlockFusion: Expandable 3D Scene Generation Using Latent Tri-plane Extrapolation",
                   "children": [],
                   "repo_info": {
@@ -1596,7 +1596,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Frankenstein",
                   "description": "SIGGRAPH Asia Frankenstein Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane",
                   "children": [],
                   "repo_info": {
@@ -1611,7 +1611,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "GaussianCity",
                   "description": "CVPR GaussianCity Generative Gaussian Splatting for Unbounded 3D City Generation",
                   "children": [],
                   "repo_info": {
@@ -1626,7 +1626,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Layout-Your-3D",
                   "description": "ICLR Layout-your-3D Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint",
                   "children": [],
                   "repo_info": {
@@ -1641,7 +1641,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "CityDreamer4D",
                   "description": "TPAMI CityDreamer4D CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities",
                   "children": [],
                   "repo_info": {
@@ -1656,7 +1656,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Sat2City-release",
                   "description": "ICCV Sat2City Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1671,7 +1671,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "X-Scene",
                   "description": "NeurIPS X-Scene X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability",
                   "children": [],
                   "repo_info": {
@@ -1686,7 +1686,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "EarthCrafter",
                   "description": "AAAI EarthCrafter EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1701,7 +1701,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "SpatialGen",
                   "description": "3DV SPATIALGEN SPATIALGEN: Layout-guided 3D Indoor Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1716,7 +1716,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "pritti",
                   "description": "CVPR PrITTI PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Scenes",
                   "children": [],
                   "repo_info": {
@@ -1731,7 +1731,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "Componerf",
                   "description": "arXiv CompoNeRF CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout",
                   "children": [],
                   "repo_info": {
@@ -1746,7 +1746,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "UrbanArchitect",
                   "description": "arXiv Urban Architect Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior",
                   "children": [],
                   "repo_info": {
@@ -1761,7 +1761,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Layout2Scene",
                   "description": "arXiv Layout2Scene Layout2Scene: 3D Semantic Layout Guided Scene Generation via Geometry and Appearance Diffusion Priors",
                   "children": [],
                   "repo_info": {
@@ -1783,7 +1783,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "giraffe",
                   "description": "CVPR GIRAFFE GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields",
                   "children": [],
                   "repo_info": {
@@ -1798,7 +1798,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "ml-gsn",
                   "description": "ICCV GSN Unconstrained Scene Generation With Locally Conditioned Radiance Fields",
                   "children": [],
                   "repo_info": {
@@ -1813,7 +1813,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "ml-gaudi",
                   "description": "NeurIPS GAUDI GAUDI: A Neural Architect for Immersive 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1828,7 +1828,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "google-research",
                   "description": "CVPR Persistent Nature Persistent Nature: A generative model of unbounded 3D worlds",
                   "children": [],
                   "repo_info": {
@@ -1838,12 +1838,12 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "diffindscene",
                   "description": "CVPR DiffInDScene DiffInDScene: Diffusion-based High-Quality 3D Indoor Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1858,7 +1858,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "XCube",
                   "description": "CVPR XCube XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies",
                   "children": [],
                   "repo_info": {
@@ -1873,7 +1873,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "SemCity",
                   "description": "CVPR SemCity SemCity: Semantic Scene Generation with Triplane Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1888,7 +1888,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "pyramid-discrete-diffusion",
                   "description": "ECCV PDD Pyramid Diffusion for Fine 3D Large Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1903,7 +1903,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Director3D",
                   "description": "NeurIPS Director3D Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text",
                   "children": [],
                   "repo_info": {
@@ -1918,7 +1918,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "lt3sd",
                   "description": "CVPR LT3SD LT3SD: Latent Trees for 3D Scene Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1933,7 +1933,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "SplatFlow",
                   "description": "CVPR SplatFlow SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis",
                   "children": [],
                   "repo_info": {
@@ -1948,7 +1948,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Prometheus",
                   "description": "CVPR Prometheus Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -1963,7 +1963,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DynamicCity",
                   "description": "ICLR DynamicCity DynamicCity: Large-Scale Occupancy Generation from Dynamic Scenes",
                   "children": [],
                   "repo_info": {
@@ -1978,7 +1978,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "NuiScene",
                   "description": "ICCV NuiScene NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes",
                   "children": [],
                   "repo_info": {
@@ -1993,7 +1993,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "VideoRFSplat",
                   "description": "ICCV VideoRFSplat VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling",
                   "children": [],
                   "repo_info": {
@@ -2008,7 +2008,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "FlashWorld",
                   "description": "ICLR FlashWorld FlashWorld: High-quality 3D Scene Generation within Seconds",
                   "children": [],
                   "repo_info": {
@@ -2018,12 +2018,12 @@
                     "last_commit": "2026-03-24T09:28:36Z",
                     "owner": "imlixinyang",
                     "repo": "FlashWorld",
-                    "stars": 840
+                    "stars": 841
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "UniUGG",
                   "description": "ICLR UniUGG UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding",
                   "children": [],
                   "repo_info": {
@@ -2038,7 +2038,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "PERSIST",
                   "description": "ICML PERSIST Beyond Pixel Histories: World Models with Persistent 3D State",
                   "children": [],
                   "repo_info": {
@@ -2053,7 +2053,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "WorldGrow",
                   "description": "AAAI WorldGrow WorldGrow: Generating Infinite 3D World",
                   "children": [],
                   "repo_info": {
@@ -2068,7 +2068,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "excellgen",
                   "description": "CVM ExCellGen ExCellGen: Fast, Controllable, Photorealistic 3D Scene Generation from a Single Real-World Exemplar",
                   "children": [],
                   "repo_info": {
@@ -2083,7 +2083,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "Diff4Splat",
                   "description": "CVPR Diff4Splat Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models",
                   "children": [],
                   "repo_info": {
@@ -2098,8 +2098,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "arXiv Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data",
+                  "title": "scene-scale-diffusion",
+                  "description": "arXiv  Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2113,7 +2113,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Terra",
                   "description": "arXiv Terra Terra: Explorable Native 3D World Model with Point Latents",
                   "children": [],
                   "repo_info": {
@@ -2142,7 +2142,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020",
+                  "title": "sate_to_ground",
                   "description": "CVPR Sat2Ground Geometry-Aware Satellite-to-Ground Image Synthesis for Urban Areas",
                   "children": [],
                   "repo_info": {
@@ -2157,7 +2157,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "sig-ss",
                   "description": "AAAI SIG-SS Spherical Image Generation from a Single Image by Considering Scene Symmetry",
                   "children": [],
                   "repo_info": {
@@ -2172,7 +2172,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "ml-envmapnet",
                   "description": "CVPR EnvMapNet HDR Environment Map Estimation for Real-Time Augmented Reality",
                   "children": [],
                   "repo_info": {
@@ -2187,7 +2187,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "OmniDreamer",
                   "description": "CVPR OmniDreamer Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation",
                   "children": [],
                   "repo_info": {
@@ -2202,7 +2202,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "BIPS",
                   "description": "ECCV BIPS BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning",
                   "children": [],
                   "repo_info": {
@@ -2217,7 +2217,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "Text2Light",
                   "description": "SIGGRAPH Asia Text2Light Text2Light: Zero-Shot Text-Driven HDR Panorama Generation",
                   "children": [],
                   "repo_info": {
@@ -2232,7 +2232,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "PanoGAN",
                   "description": "TMM PanoGAN Cross-View Panorama Image Synthesis",
                   "children": [],
                   "repo_info": {
@@ -2247,7 +2247,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "Sat2StrPanoramaSynthesis",
                   "description": "TPAMI Sat2Str Geometry-Guided Street-View Panorama Synthesis from Satellite Imagery",
                   "children": [],
                   "repo_info": {
@@ -2262,7 +2262,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "Sat2Density",
                   "description": "ICCV Sat2Density Sat2Density: Faithful Density Learning from Satellite-Ground Image Pairs",
                   "children": [],
                   "repo_info": {
@@ -2277,7 +2277,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "Panodiff",
                   "description": "MM PanoDiff 360-Degree Panorama Generation from Few Unregistered NFoV Images",
                   "children": [],
                   "repo_info": {
@@ -2292,7 +2292,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "MVDiffusion",
                   "description": "NeurIPS MVDiffusion MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion",
                   "children": [],
                   "repo_info": {
@@ -2307,8 +2307,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "TPAMI Spherical Image Generation From a Few Normal-Field-of-View Images by Considering Scene Symmetry",
+                  "title": "sig-ss",
+                  "description": "TPAMI  Spherical Image Generation From a Few Normal-Field-of-View Images by Considering Scene Symmetry",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2322,7 +2322,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "PanoDiffusion",
                   "description": "ICLR PanoDiffusion PanoDiffusion: 360-degree Panorama Outpainting via Diffusion",
                   "children": [],
                   "repo_info": {
@@ -2337,7 +2337,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "sat2scene",
                   "description": "CVPR Sat2Scene Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion",
                   "children": [],
                   "repo_info": {
@@ -2352,7 +2352,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "PanFusion",
                   "description": "CVPR PanFusion Taming stable diffusion for text to 360◦ panorama image generation",
                   "children": [],
                   "repo_info": {
@@ -2367,7 +2367,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DreamScene360",
                   "description": "ECCV DreamScene360 DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting",
                   "children": [],
                   "repo_info": {
@@ -2382,7 +2382,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "FastScene",
                   "description": "IJCAI FastScene FastScene: Text-Driven Fast Indoor 3D Scene Generation via Panoramic Gaussian Splatting",
                   "children": [],
                   "repo_info": {
@@ -2397,7 +2397,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DiffPano",
                   "description": "NeurIPS DiffPano DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion",
                   "children": [],
                   "repo_info": {
@@ -2412,7 +2412,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "PeRF",
                   "description": "TPAMI PERF PERF: Panoramic Neural Radiance Field from a Single Panorama",
                   "children": [],
                   "repo_info": {
@@ -2427,7 +2427,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "StitchDiffusion",
                   "description": "WACV StitchDiffusion Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -2442,7 +2442,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "LayerPano3D",
                   "description": "SIGGRAPH LayerPano3D LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -2457,7 +2457,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DreamCube",
                   "description": "ICCV DreamCube DreamCube: 3D Panorama Generation via Multi-plane Synchronization",
                   "children": [],
                   "repo_info": {
@@ -2472,7 +2472,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "Sat2Densitypp",
                   "description": "TPAMI Sat2Density++ Seeing through Satellite Images at Street Views",
                   "children": [],
                   "repo_info": {
@@ -2487,7 +2487,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "One2Scene",
                   "description": "ICLR One2Scene One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -2502,22 +2502,22 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "Sat3DGen",
                   "description": "ICLR Sat3DGen Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 1144786432,
                     "language": "Python",
-                    "last_commit": "2026-08-04T02:50:37Z",
+                    "last_commit": "2026-08-25T03:21:53Z",
                     "owner": "qianmingduowan",
                     "repo": "Sat3DGen",
-                    "stars": 124
+                    "stars": 125
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "GuidedSceneGen",
                   "description": "ECCV GuidedSceneGen Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -2532,7 +2532,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "OmniX",
                   "description": "ECCV OmniX OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes",
                   "children": [],
                   "repo_info": {
@@ -2547,7 +2547,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "HoloDreamer",
                   "description": "TVCG HoloDreamer HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions",
                   "children": [],
                   "repo_info": {
@@ -2562,7 +2562,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "CGGS",
                   "description": "TIP CGGS CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -2577,7 +2577,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "SD-T2I-360PanoImage",
                   "description": "arXiv Diffusion360 Diffusion360: Seamless 360 Degree Panoramic Image Generation based on Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -2592,7 +2592,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "SceneDreamer360",
                   "description": "arXiv SceneDreamer360 SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting",
                   "children": [],
                   "repo_info": {
@@ -2607,7 +2607,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "EmbodiedGen",
                   "description": "arXiv EmbodiedGen EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence",
                   "children": [],
                   "repo_info": {
@@ -2617,12 +2617,12 @@
                     "last_commit": "2026-08-24T07:06:47Z",
                     "owner": "HorizonRobotics",
                     "repo": "EmbodiedGen",
-                    "stars": 631
+                    "stars": 635
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "HunyuanWorld-1.0",
                   "description": "arXiv HunyuanWorld 1.0 HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels",
                   "children": [],
                   "repo_info": {
@@ -2632,12 +2632,12 @@
                     "last_commit": "2026-04-15T17:27:25Z",
                     "owner": "Tencent-Hunyuan",
                     "repo": "HunyuanWorld-1.0",
-                    "stars": 2916
+                    "stars": 2917
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Matrix-3D",
                   "description": "arXiv Matrix-3D Matrix-3D: Omnidirectional Explorable 3D World Generation",
                   "children": [],
                   "repo_info": {
@@ -2652,7 +2652,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "RoamScene3D",
                   "description": "arXiv RoamScene3D RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming",
                   "children": [],
                   "repo_info": {
@@ -2667,7 +2667,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "WorldComposer",
                   "description": "arXiv WorldComposer From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation",
                   "children": [],
                   "repo_info": {
@@ -2689,8 +2689,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2019",
-                  "description": "TOG 3D Ken Burns Effect from a Single Image",
+                  "title": "3d-ken-burns",
+                  "description": "TOG  3D Ken Burns Effect from a Single Image",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2704,7 +2704,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
+                  "title": "synsin",
                   "description": "CVPR SynSin SynSin: End-to-end view synthesis from a single image",
                   "children": [],
                   "repo_info": {
@@ -2719,7 +2719,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
+                  "title": "3d-photo-inpainting",
                   "description": "CVPR 3D Photo 3D Photography Using Context-Aware Layered Depth Inpainting",
                   "children": [],
                   "repo_info": {
@@ -2729,13 +2729,13 @@
                     "last_commit": "2024-08-30T23:48:56Z",
                     "owner": "vt-vl-lab",
                     "repo": "3d-photo-inpainting",
-                    "stars": 7092
+                    "stars": 7093
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
-                  "description": "CVPR Single-View View Synthesis with Multiplane Images",
+                  "title": "google-research",
+                  "description": "CVPR  Single-View View Synthesis with Multiplane Images",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2744,12 +2744,12 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
+                  "title": "gvsnet",
                   "description": "NeurIPS GVS Generative View Synthesis: From Single-view Semantics to Novel-view Images",
                   "children": [],
                   "repo_info": {
@@ -2764,7 +2764,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "worldsheet",
                   "description": "ICCV Worldsheet Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -2779,7 +2779,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "google-research",
                   "description": "ICCV InfiniteNature Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -2789,12 +2789,12 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "geometry-free-view-synthesis",
                   "description": "ICCV GFVS Geometry-free view synthesis: Transformers and no 3d priors",
                   "children": [],
                   "repo_info": {
@@ -2809,7 +2809,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "pathdreamer",
                   "description": "ICCV Pathdreamer Pathdreamer: A World Model for Indoor Navigation",
                   "children": [],
                   "repo_info": {
@@ -2824,7 +2824,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "pixelsynth",
                   "description": "ICCV PixelSynth PixelSynth: Generating a 3D-Consistent Experience from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -2839,7 +2839,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "Look-Outside-Room",
                   "description": "CVPR LOTR Look outside the room: Synthesizing a consistent long-term 3d scene video from a single image",
                   "children": [],
                   "repo_info": {
@@ -2854,7 +2854,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "google-research",
                   "description": "ECCV InfiniteNature-Zero InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images",
                   "children": [],
                   "repo_info": {
@@ -2864,12 +2864,12 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "SGAM_NeurIPS22",
                   "description": "NeurIPS SGAM SGAM: Building a Virtual 3D World through Simultaneous Generation and Mapping",
                   "children": [],
                   "repo_info": {
@@ -2884,7 +2884,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "se3ds",
                   "description": "AAAI SE3DS Simple and Effective Synthesis of Indoor 3D Scenes",
                   "children": [],
                   "repo_info": {
@@ -2899,7 +2899,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "3d-cinemagraphy",
                   "description": "CVPR 3D Cinemagraphy 3D Cinemagraphy from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -2914,7 +2914,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "DiffDreamer",
                   "description": "ICCV DiffDreamer DiffDreamer: Towards Consistent Unsupervised Single-view Scene Extrapolation with Conditional Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -2929,7 +2929,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "text2room",
                   "description": "ICCV Text2Room Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models",
                   "children": [],
                   "repo_info": {
@@ -2944,8 +2944,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
-                  "description": "ICCV Long-Term Photometric Consistent Novel View Synthesis with Diffusion Models",
+                  "title": "Photoconsistent-NVS",
+                  "description": "ICCV  Long-Term Photometric Consistent Novel View Synthesis with Diffusion Models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2959,7 +2959,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "Make-It-4D",
                   "description": "MM Make-It-4D Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -2974,7 +2974,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "SceneScape",
                   "description": "NeurIPS SceneScape SceneScape: Text-Driven Consistent Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -2989,7 +2989,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "PanoGen",
                   "description": "NeurIPS PanoGen PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation",
                   "children": [],
                   "repo_info": {
@@ -3004,7 +3004,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "AOG-NET-360",
                   "description": "AAAI AOG-Net Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation",
                   "children": [],
                   "repo_info": {
@@ -3019,7 +3019,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "WonderJourney",
                   "description": "CVPR WonderJourney WonderJourney: Going from Anywhere to Everywhere",
                   "children": [],
                   "repo_info": {
@@ -3034,7 +3034,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "PanoFree",
                   "description": "ECCV PanoFree PanoFree: Tuning-Free Holistic Multi-view Image Generation with Cross-view Self-Guidance",
                   "children": [],
                   "repo_info": {
@@ -3049,7 +3049,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "iControl3D",
                   "description": "MM iControl3D iControl3D: An Interactive System for Controllable 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -3064,7 +3064,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "360-1M",
                   "description": "NeurIPS ODIN From an Image to a Scene: Learning to Imagine the World from a Million 360° Videos",
                   "children": [],
                   "repo_info": {
@@ -3079,7 +3079,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Text2NeRF",
                   "description": "TVCG Text2NeRF Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields",
                   "children": [],
                   "repo_info": {
@@ -3094,7 +3094,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "LucidDreamer",
                   "description": "TVCG LucidDreamer LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes",
                   "children": [],
                   "repo_info": {
@@ -3109,7 +3109,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "realmdreamer",
                   "description": "3DV RealmDreamer RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion",
                   "children": [],
                   "repo_info": {
@@ -3124,7 +3124,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "invisible-stitch",
                   "description": "3DV Invisible Stitch Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting",
                   "children": [],
                   "repo_info": {
@@ -3139,7 +3139,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "BloomScene",
                   "description": "AAAI BloomScene BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -3154,7 +3154,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "WonderWorld",
                   "description": "CVPR WonderWorld WonderWorld: Interactive 3D Scene Generation from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -3169,7 +3169,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "artiscene",
                   "description": "CVPR ArtiScene ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary",
                   "children": [],
                   "repo_info": {
@@ -3184,7 +3184,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "ICLR2025_3D-MOM",
                   "description": "ICLR 3D-MOM Optimizing 4D Gaussians for Dynamic Scene Video from Single Landscape Images",
                   "children": [],
                   "repo_info": {
@@ -3199,7 +3199,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Scene123",
                   "description": "MM Scene123 Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE",
                   "children": [],
                   "repo_info": {
@@ -3214,7 +3214,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "WonderTurbo",
                   "description": "ICCV WonderTurbo WonderTurbo: Generating Interactive 3D World in 0.72 Seconds",
                   "children": [],
                   "repo_info": {
@@ -3229,7 +3229,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "syncity",
                   "description": "ICCV SynCity SynCity: Training-Free Generation of 3D Worlds",
                   "children": [],
                   "repo_info": {
@@ -3244,7 +3244,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "ScenePainter",
                   "description": "ICCV ScenePainter ScenePainter: Semantically Consistent Perpetual 3D Scene Generation with Concept Relation Alignment",
                   "children": [],
                   "repo_info": {
@@ -3259,7 +3259,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "CGGS",
                   "description": "TIP CGGS CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -3274,7 +3274,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "EvoScene",
                   "description": "CVPR EvoScene Self-Evolving 3D Scene Generation from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -3289,7 +3289,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "syncity-3k",
                   "description": "ECCV SynCity 3000 SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
                   "children": [],
                   "repo_info": {
@@ -3304,7 +3304,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "OPaMa",
                   "description": "arXiv OPa-Ma OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting",
                   "children": [],
                   "repo_info": {
@@ -3319,7 +3319,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "WonderZoom",
                   "description": "arXiv WonderZoom WonderZoom: Multi-Scale 3D World Generation",
                   "children": [],
                   "repo_info": {
@@ -3334,7 +3334,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "SceneFrom3D",
                   "description": "arXiv SceneFrom3D SceneFrom3D: Geometry-Conditioned Outdoor 3D Scene Generation via View Scheduling with Object-Level Control",
                   "children": [],
                   "repo_info": {
@@ -3363,7 +3363,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "4Real",
                   "description": "NeurIPS 4Real 4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -3378,7 +3378,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "GenXD",
                   "description": "ICLR GenXD GenXD: Generating Any 3D and 4D Scenes",
                   "children": [],
                   "repo_info": {
@@ -3393,7 +3393,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "StarGen",
                   "description": "CVPR StarGen StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -3408,7 +3408,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DreamJourney",
                   "description": "TMM DreamJourney DreamJourney: Perpetual View Generation with Video Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -3423,7 +3423,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DimensionX",
                   "description": "ICCV DimensionX DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion",
                   "children": [],
                   "repo_info": {
@@ -3438,7 +3438,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Free4D",
                   "description": "ICCV Free4D Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency",
                   "children": [],
                   "repo_info": {
@@ -3453,7 +3453,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "paintscene4d.github.io",
                   "description": "arXiv PaintScene4D PaintScene4D: Consistent 4D Scene Generation from Text Prompts",
                   "children": [],
                   "repo_info": {
@@ -3475,7 +3475,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "MagicDrive",
                   "description": "ICLR MagicDrive MagicDrive: Street View Generation with Diverse 3D Geometry Control",
                   "children": [],
                   "repo_info": {
@@ -3490,7 +3490,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "panacea",
                   "description": "CVPR Panacea Panacea: Panoramic and Controllable Video Generation for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -3505,7 +3505,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Drive-WM",
                   "description": "CVPR Drive-WM Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -3520,7 +3520,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "360DVD",
                   "description": "CVPR 360DVD 360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model",
                   "children": [],
                   "repo_info": {
@@ -3535,7 +3535,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DriveDreamer",
                   "description": "ECCV DriveDreamer DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -3550,7 +3550,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DrivingDiffusion",
                   "description": "ECCV DrivingDiffusion DrivingDiffusion: Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model",
                   "children": [],
                   "repo_info": {
@@ -3565,7 +3565,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "WoVoGen",
                   "description": "ECCV WoVoGen WoVoGen: World Volume-Aware Diffusion for Controllable Multi-camera Driving Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -3580,7 +3580,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Vista",
                   "description": "NeurIPS Vista Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability",
                   "children": [],
                   "repo_info": {
@@ -3595,7 +3595,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "diamond",
                   "description": "NeurIPS DIAMOND Diffusion for World Modeling: Visual Details Matter in Atari",
                   "children": [],
                   "repo_info": {
@@ -3610,7 +3610,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DriveDreamer2",
                   "description": "AAAI DriveDreamer-2 DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation",
                   "children": [],
                   "repo_info": {
@@ -3625,7 +3625,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "4K4DGen",
                   "description": "ICLR 4K4DGen 4K4DGen: Panoramic 4D Generation at 4K Resolution",
                   "children": [],
                   "repo_info": {
@@ -3640,7 +3640,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "GameGen-X",
                   "description": "ICLR GameGen-X GameGen-X: Interactive Open-world Game Video Generation",
                   "children": [],
                   "repo_info": {
@@ -3655,7 +3655,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "genex",
                   "description": "ICLR Genex Generative World Explorer",
                   "children": [],
                   "repo_info": {
@@ -3670,7 +3670,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DrivingSphere",
                   "description": "CVPR DrivingSphere DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation",
                   "children": [],
                   "repo_info": {
@@ -3685,7 +3685,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "street_crafter",
                   "description": "CVPR StreetCrafter StreetCrafter: Street View Synthesiswith Controllable Video Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -3700,7 +3700,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
                   "description": "CVPR UniScene UniScene: Unified Occupancy-centric Driving Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -3715,7 +3715,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "GEM",
                   "description": "CVPR GEM GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control",
                   "children": [],
                   "repo_info": {
@@ -3730,7 +3730,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "UMGen",
                   "description": "CVPR UMGen Generating Multimodal Driving Scenes via Next-Scene Prediction",
                   "children": [],
                   "repo_info": {
@@ -3745,7 +3745,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "wonderland",
                   "description": "CVPR Wonderland Wonderland: Navigating 3D Scenes from a Single Image",
                   "children": [],
                   "repo_info": {
@@ -3760,7 +3760,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "VideoScene",
                   "description": "CVPR VideoScene VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step",
                   "children": [],
                   "repo_info": {
@@ -3775,7 +3775,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Scene-Splatter",
                   "description": "CVPR Scene Splatter Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model",
                   "children": [],
                   "repo_info": {
@@ -3790,7 +3790,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DynamicScaler",
                   "description": "CVPR DynamicScaler DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes",
                   "children": [],
                   "repo_info": {
@@ -3805,7 +3805,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "AdaWorld",
                   "description": "ICML AdaWorld AdaWorld: Learning Adaptable World Models with Latent Actions",
                   "children": [],
                   "repo_info": {
@@ -3820,7 +3820,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "GameFactory",
                   "description": "ICCV GameFactory GameFactory: Creating New Games with Generative Interactive Videos",
                   "children": [],
                   "repo_info": {
@@ -3835,7 +3835,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "WonderPlay",
                   "description": "ICCV WonderPlay WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions",
                   "children": [],
                   "repo_info": {
@@ -3850,7 +3850,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "MagicDrive-V2",
                   "description": "ICCV MagicDrive-V2 MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control",
                   "children": [],
                   "repo_info": {
@@ -3860,12 +3860,12 @@
                     "last_commit": "2025-06-26T01:36:37Z",
                     "owner": "flymin",
                     "repo": "MagicDrive-V2",
-                    "stars": 724
+                    "stars": 725
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DynamicVoyager",
                   "description": "ICCV DynamicVoyager Voyaging into Unbounded Dynamic Scenes from a Single View",
                   "children": [],
                   "repo_info": {
@@ -3880,7 +3880,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "InfiniCube",
                   "description": "ICCV InfiniCube InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models",
                   "children": [],
                   "repo_info": {
@@ -3895,7 +3895,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "vmem",
                   "description": "ICCV VMem VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory",
                   "children": [],
                   "repo_info": {
@@ -3910,7 +3910,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "VideoFrom3D",
                   "description": "SIGGRAPH Asia VideoFrom3D VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -3925,7 +3925,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "worldexplorer",
                   "description": "SIGGRAPH Asia WorldExplorer WorldExplorer: Towards Generating Fully Navigable 3D Scenes",
                   "children": [],
                   "repo_info": {
@@ -3940,7 +3940,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "fantasy-world",
                   "description": "ICLR FantasyWorld FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction",
                   "children": [],
                   "repo_info": {
@@ -3955,7 +3955,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "Captain-Safari",
                   "description": "CVPR Captain Safari Captain Safari: A World Engine",
                   "children": [],
                   "repo_info": {
@@ -3970,7 +3970,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "PerpetualWonder",
                   "description": "CVPR PerpetualWonder PerpetualWonder: Long-Horizon Action-Conditioned 4D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -3985,7 +3985,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "WorldForge",
                   "description": "CVPR WorldForge WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance",
                   "children": [],
                   "repo_info": {
@@ -4000,7 +4000,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "UniFuture",
                   "description": "ICRA UniFuture Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception",
                   "children": [],
                   "repo_info": {
@@ -4015,7 +4015,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "One4D",
                   "description": "ECCV One4D One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control",
                   "children": [],
                   "repo_info": {
@@ -4030,7 +4030,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "MagicDrive3D",
                   "description": "arXiv MagicDrive3D MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes",
                   "children": [],
                   "repo_info": {
@@ -4045,7 +4045,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Delphi",
                   "description": "arXiv Delphi Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation",
                   "children": [],
                   "repo_info": {
@@ -4060,7 +4060,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "BevWorld",
                   "description": "arXiv BEVWorld BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space",
                   "children": [],
                   "repo_info": {
@@ -4075,7 +4075,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DriveArena",
                   "description": "arXiv DriveArena DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -4085,12 +4085,12 @@
                     "last_commit": "2025-09-17T13:35:35Z",
                     "owner": "PJLab-ADG",
                     "repo": "DriveArena",
-                    "stars": 468
+                    "stars": 469
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DIVE",
                   "description": "arXiv DiVE DiVE: DiT-based Video Generation with Enhanced Control",
                   "children": [],
                   "repo_info": {
@@ -4105,7 +4105,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "SyntheOcc",
                   "description": "arXiv SyntheOcc SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs",
                   "children": [],
                   "repo_info": {
@@ -4120,7 +4120,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Imagine360",
                   "description": "arXiv Imagine360 Imagine360: Immersive 360 Video Generation from Perspective Anchor",
                   "children": [],
                   "repo_info": {
@@ -4135,7 +4135,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DrivingWorld",
                   "description": "arXiv DrivingWorld DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT",
                   "children": [],
                   "repo_info": {
@@ -4150,7 +4150,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "ViewCrafter",
                   "description": "arXiv ViewCrafter ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis",
                   "children": [],
                   "repo_info": {
@@ -4165,7 +4165,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "ViewExtrapolator",
                   "description": "arXiv ViewExtrapolator Novel View Extrapolation with Video Diffusion Priors",
                   "children": [],
                   "repo_info": {
@@ -4180,7 +4180,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "OpenDWM",
                   "description": "arXiv MaskGWM MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction",
                   "children": [],
                   "repo_info": {
@@ -4195,7 +4195,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "SimWorld",
                   "description": "arXiv SimWorld SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model",
                   "children": [],
                   "repo_info": {
@@ -4210,7 +4210,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "dist4d",
                   "description": "arXiv DiST-4D DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -4225,7 +4225,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "SteerX",
                   "description": "arXiv SteerX SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering",
                   "children": [],
                   "repo_info": {
@@ -4240,7 +4240,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "FlexWorld",
                   "description": "arXiv FlexWorld FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis",
                   "children": [],
                   "repo_info": {
@@ -4255,7 +4255,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "WorldMem",
                   "description": "arXiv WORLDMEM WORLDMEM: Long-term Consistent World Simulation with Memory",
                   "children": [],
                   "repo_info": {
@@ -4270,7 +4270,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "HoloTime",
                   "description": "arXiv HoloTime HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -4285,7 +4285,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "mineworld",
                   "description": "arXiv MineWorld MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft",
                   "children": [],
                   "repo_info": {
@@ -4300,7 +4300,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Matrix-Game",
                   "description": "arXiv Matrix-Game Matrix-Game: Interactive World Foundation Model",
                   "children": [],
                   "repo_info": {
@@ -4315,7 +4315,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Matrix-Game",
                   "description": "arXiv Matrix-Game 2.0 Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model",
                   "children": [],
                   "repo_info": {
@@ -4330,7 +4330,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "CoCo4D-Gen",
                   "description": "arXiv CoCo4D CoCo4D: Comprehensive and Complex 4D Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -4345,7 +4345,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "WonderFree",
                   "description": "arXiv WonderFree WonderFree: Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration",
                   "children": [],
                   "repo_info": {
@@ -4360,7 +4360,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "4DNeX",
                   "description": "arXiv 4DNeX 4DNeX: Feed-Forward 4D Generative Modeling Made Easy",
                   "children": [],
                   "repo_info": {
@@ -4375,8 +4375,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "arXiv From Virtual Games to Real-World Play",
+                  "title": "Real-Play",
+                  "description": "arXiv  From Virtual Games to Real-World Play",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4390,7 +4390,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "EvoWorld",
                   "description": "arXiv EvoWorld EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory",
                   "children": [],
                   "repo_info": {
@@ -4405,7 +4405,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "magicworld",
                   "description": "arXiv MagicWorld MagicWorld: Interactive Geometry-driven Video World Exploration",
                   "children": [],
                   "repo_info": {
@@ -4420,8 +4420,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
-                  "description": "arXiv HY-World 1.5 HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency",
+                  "title": "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency",
+                  "description": "arXiv HY-World 1.5",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4453,7 +4453,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2017",
+              "title": "2D-3D-Semantics",
               "description": "Indoor Real 2D-3D-S Joint 2D-3D-Semantic Data for Indoor Scene Understanding",
               "children": [],
               "repo_info": {
@@ -4468,7 +4468,7 @@
             },
             {
               "node_type": "item",
-              "title": "2019",
+              "title": "Replica-Dataset",
               "description": "Indoor Real Replica The Replica Dataset: A Digital Replica of Indoor Spaces",
               "children": [],
               "repo_info": {
@@ -4483,7 +4483,7 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
+              "title": "ml-hypersim",
               "description": "Indoor Synthetic HyperSim HyperSim: A photorealistic synthetic dataset for holistic indoor scene understanding",
               "children": [],
               "repo_info": {
@@ -4498,7 +4498,7 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
+              "title": "SYNBUILD-3D",
               "description": "Indoor Synthetic SYNBUILD-3D SYNBUILD-3D: A large, multi-modal, and semantically rich synthetic dataset of 3D building models at Level of Detail 4",
               "children": [],
               "repo_info": {
@@ -4528,7 +4528,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "stylemesh",
                   "description": "CVPR StyleMesh StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions",
                   "children": [],
                   "repo_info": {
@@ -4543,7 +4543,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "discoscene",
                   "description": "CVPR DisCoScene DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis",
                   "children": [],
                   "repo_info": {
@@ -4558,7 +4558,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "LEGO-Net",
                   "description": "CVPR LEGO-Net LEGO-Net: Learning Regular Rearrangements of Objects in Rooms",
                   "children": [],
                   "repo_info": {
@@ -4573,7 +4573,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "Lift3D",
                   "description": "CVPR Lift3D Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field",
                   "children": [],
                   "repo_info": {
@@ -4588,7 +4588,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "cabi_net",
                   "description": "ICRA CabiNet CabiNet: Scaling Neural Collision Detection for Object Rearrangement with Procedural Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -4603,7 +4603,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "SceneTex",
                   "description": "CVPR SceneTex SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors",
                   "children": [],
                   "repo_info": {
@@ -4618,7 +4618,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "stylecity3d",
                   "description": "ECCV StyleCity StyleCity: Large-Scale 3D Urban Scenes Stylization",
                   "children": [],
                   "repo_info": {
@@ -4633,7 +4633,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "RoomTex-",
                   "description": "ECCV RoomTex RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting",
                   "children": [],
                   "repo_info": {
@@ -4648,7 +4648,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "3DScenePlatform",
                   "description": "MM SceneExpander SceneExpander: Real-Time Scene Synthesis for Interactive Floor Plan Editing",
                   "children": [],
                   "repo_info": {
@@ -4663,7 +4663,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "3DScenePlatform",
                   "description": "TVCG SceneDirector SceneDirector: Interactive Scene Synthesis by Simultaneously Editing Multiple Objects in Real-Time",
                   "children": [],
                   "repo_info": {
@@ -4678,7 +4678,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DreamSpace",
                   "description": "VR DreamSpace DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation",
                   "children": [],
                   "repo_info": {
@@ -4693,7 +4693,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Ctrl-Room",
                   "description": "3DV Ctrl-Room Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints",
                   "children": [],
                   "repo_info": {
@@ -4708,7 +4708,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "ReStyle3D",
                   "description": "SIGGRAPH ReStyle3D ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences",
                   "children": [],
                   "repo_info": {
@@ -4723,7 +4723,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Styl3R",
                   "description": "NeurIPS Styl3R Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles",
                   "children": [],
                   "repo_info": {
@@ -4738,7 +4738,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "Edit-As-Act",
                   "description": "CVPR Edit-As-Act Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing",
                   "children": [],
                   "repo_info": {
@@ -4760,7 +4760,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "COINS",
                   "description": "ECCV COINS Compositional Human-Scene Interaction Synthesis with Semantic Control",
                   "children": [],
                   "repo_info": {
@@ -4775,7 +4775,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "Scene-Diffuser",
                   "description": "CVPR SceneDiffuser Diffusion-based Generation, Optimization, and Planning in 3D Scenes",
                   "children": [],
                   "repo_info": {
@@ -4790,7 +4790,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "DIMOS",
                   "description": "ICCV DIMOS Synthesizing Diverse Human Motions in 3D Indoor Scenes",
                   "children": [],
                   "repo_info": {
@@ -4805,7 +4805,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "InterScene",
                   "description": "3DV InterScene Synthesizing Physically Plausible Human Motions in 3D Scenes",
                   "children": [],
                   "repo_info": {
@@ -4820,7 +4820,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "UniHSI",
                   "description": "ICLR UniHSI UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts",
                   "children": [],
                   "repo_info": {
@@ -4835,7 +4835,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "sims-stylized_hsi",
                   "description": "ICCV SIMS SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation",
                   "children": [],
                   "repo_info": {
@@ -4850,7 +4850,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "TokenHSI",
                   "description": "CVPR TokenHSI TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization",
                   "children": [],
                   "repo_info": {
@@ -4865,7 +4865,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "fantasy-hsi",
                   "description": "arXiv FantasyHSI FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework",
                   "children": [],
                   "repo_info": {
@@ -4887,7 +4887,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "procthor",
                   "description": "NeurIPS ProcTHOR ProcTHOR: Large-Scale Embodied AI Using Procedural Generation",
                   "children": [],
                   "repo_info": {
@@ -4897,12 +4897,12 @@
                     "last_commit": "2023-04-07T11:02:38Z",
                     "owner": "allenai",
                     "repo": "procthor",
-                    "stars": 463
+                    "stars": 464
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Holodeck",
                   "description": "CVPR Holodeck Holodeck: Language Guided Generation of 3D Embodied AI Environments",
                   "children": [],
                   "repo_info": {
@@ -4917,7 +4917,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "PhyScene",
                   "description": "CVPR PhyScene PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI",
                   "children": [],
                   "repo_info": {
@@ -4932,7 +4932,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "architect_official_code",
                   "description": "NeurIPS Architect Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting",
                   "children": [],
                   "repo_info": {
@@ -4947,7 +4947,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "metaurban",
                   "description": "ICLR MetaUrban MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility",
                   "children": [],
                   "repo_info": {
@@ -4962,7 +4962,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "urban-sim",
                   "description": "CVPR URBAN-SIM Towards Autonomous Micromobility through Scalable Urban Simulation",
                   "children": [],
                   "repo_info": {
@@ -4977,7 +4977,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "InternUtopia",
                   "description": "arXiv GRUtopia GRUtopia: Dream General Robots in a City at Scale",
                   "children": [],
                   "repo_info": {
@@ -4992,7 +4992,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "EmbodiedCity",
                   "description": "arXiv EmbodiedCity EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment",
                   "children": [],
                   "repo_info": {
@@ -5007,7 +5007,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "InfiniteWorld",
                   "description": "arXiv InfiniteWorld InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction",
                   "children": [],
                   "repo_info": {
@@ -5022,7 +5022,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "MANSION",
                   "description": "arXiv MANSION MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks",
                   "children": [],
                   "repo_info": {
@@ -5037,7 +5037,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "sage",
                   "description": "CVPR SAGE SAGE: Scalable Agentic 3D Scene Generation for Embodied AI",
                   "children": [],
                   "repo_info": {
@@ -5066,7 +5066,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "hip",
                   "description": "NeurIPS HiP Compositional Foundation Models for Hierarchical Planning",
                   "children": [],
                   "repo_info": {
@@ -5081,7 +5081,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "imagination-policy-cor24",
                   "description": "CoRL Imagination Policy Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies",
                   "children": [],
                   "repo_info": {
@@ -5096,7 +5096,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "eurekaverse",
                   "description": "CoRL Eurekaverse Eurekaverse: Environment Curriculum Generation via Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -5111,7 +5111,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "GR-1",
                   "description": "ICLR GR-1 Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation",
                   "children": [],
                   "repo_info": {
@@ -5126,7 +5126,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "RoboGen",
                   "description": "ICML RoboGen RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation",
                   "children": [],
                   "repo_info": {
@@ -5141,7 +5141,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "ActNeRF",
                   "description": "IROS ActNeRF Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions",
                   "children": [],
                   "repo_info": {
@@ -5156,7 +5156,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "CLOVER",
                   "description": "NeurIPS CLOVER Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation",
                   "children": [],
                   "repo_info": {
@@ -5171,7 +5171,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "slowfast-vgen",
                   "description": "ICLR SlowFast-VGen SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation",
                   "children": [],
                   "repo_info": {
@@ -5186,7 +5186,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "video-prediction-policy",
                   "description": "ICML Video Prediction Policy Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations",
                   "children": [],
                   "repo_info": {
@@ -5201,14 +5201,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "RoboVerse",
                   "description": "RSS RoboVerse RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 960200422,
                     "language": "Python",
-                    "last_commit": "2026-08-17T17:15:03Z",
+                    "last_commit": "2026-08-24T17:12:21Z",
                     "owner": "RoboVerseOrg",
                     "repo": "RoboVerse",
                     "stars": 1810
@@ -5216,7 +5216,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "VideoWorld",
                   "description": "arXiv VideoWorld VideoWorld: Exploring Knowledge Learning from Unlabeled Videos",
                   "children": [],
                   "repo_info": {
@@ -5231,7 +5231,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "cosmos-transfer1",
                   "description": "arXiv Cosmos-Transfer1 Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control",
                   "children": [],
                   "repo_info": {
@@ -5241,12 +5241,12 @@
                     "last_commit": "2026-06-07T17:21:25Z",
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-transfer1",
-                    "stars": 818
+                    "stars": 819
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "TesserAct",
                   "description": "arXiv TesserAct TesserAct: Learning 4D Embodied World Models",
                   "children": [],
                   "repo_info": {
@@ -5261,7 +5261,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "TabletopGen",
                   "description": "arXiv TabletopGen TabletopGen: Instance-Level Interactive 3D Tabletop Scene Generation from Text or Single Image",
                   "children": [],
                   "repo_info": {
@@ -5276,7 +5276,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "WorldComposer",
                   "description": "arXiv WorldComposer From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation",
                   "children": [],
                   "repo_info": {
@@ -5291,7 +5291,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "robosnap",
                   "description": "arXiv RoboSnap RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation",
                   "children": [],
                   "repo_info": {
@@ -5313,7 +5313,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Cam4DOcc",
                   "description": "CVPR Cam4DOcc Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications",
                   "children": [],
                   "repo_info": {
@@ -5328,7 +5328,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Drive-WM",
                   "description": "CVPR Drive-WM Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -5343,7 +5343,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DriveDreamer",
                   "description": "ECCV DriveDreamer DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -5358,7 +5358,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "OccWorld",
                   "description": "ECCV OccWorld OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -5373,7 +5373,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "WoVoGen",
                   "description": "ECCV WoVoGen WoVoGen: World Volume-Aware Diffusion for Controllable Multi-camera Driving Scene Generation",
                   "children": [],
                   "repo_info": {
@@ -5388,7 +5388,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "MagicDrive",
                   "description": "ICLR MagicDrive MagicDrive: Street View Generation with Diverse 3D Geometry Control",
                   "children": [],
                   "repo_info": {
@@ -5403,7 +5403,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Vista",
                   "description": "NeurIPS Vista Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability",
                   "children": [],
                   "repo_info": {
@@ -5418,7 +5418,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "Drive-OccWorld",
                   "description": "AAAI Drive-OccWorld Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -5433,7 +5433,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "DrivingSphere",
                   "description": "CVPR DrivingSphere DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation",
                   "children": [],
                   "repo_info": {
@@ -5448,7 +5448,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "orbis",
                   "description": "NeurIPS Orbis Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models",
                   "children": [],
                   "repo_info": {
@@ -5463,14 +5463,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "drivelaw",
                   "description": "CVPR DriveLaW DriveLaW: Unifying Planning and Video Generation in a Latent Driving World",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 1191317834,
                     "language": "Python",
-                    "last_commit": "2026-08-15T16:33:43Z",
+                    "last_commit": "2026-08-24T17:13:21Z",
                     "owner": "xiaomi-research",
                     "repo": "drivelaw",
                     "stars": 96
@@ -5478,7 +5478,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "OccSora",
                   "description": "arXiv OccSora OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -5493,7 +5493,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "Delphi",
                   "description": "arXiv Delphi Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation",
                   "children": [],
                   "repo_info": {
@@ -5508,7 +5508,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DriveArena",
                   "description": "arXiv DriveArena DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -5518,12 +5518,12 @@
                     "last_commit": "2025-09-17T13:35:35Z",
                     "owner": "PJLab-ADG",
                     "repo": "DriveArena",
-                    "stars": 468
+                    "stars": 469
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DIVE",
                   "description": "arXiv DiVE DiVE: DiT-based Video Generation with Enhanced Control",
                   "children": [],
                   "repo_info": {
@@ -5538,7 +5538,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024",
+                  "title": "DrivingWorld",
                   "description": "arXiv DrivingWorld DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT",
                   "children": [],
                   "repo_info": {
@@ -5553,7 +5553,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "cosmos-transfer1",
                   "description": "arXiv Cosmos-Transfer1 Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control",
                   "children": [],
                   "repo_info": {
@@ -5563,12 +5563,12 @@
                     "last_commit": "2026-06-07T17:21:25Z",
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-transfer1",
-                    "stars": 818
+                    "stars": 819
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025",
+                  "title": "GenieDrive",
                   "description": "arXiv GenieDrive GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation",
                   "children": [],
                   "repo_info": {
@@ -5583,7 +5583,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "VectorWorld",
                   "description": "arXiv VectorWorld VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs",
                   "children": [],
                   "repo_info": {
@@ -5598,7 +5598,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026",
+                  "title": "OccSim",
                   "description": "arXiv OccSim OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models",
                   "children": [],
                   "repo_info": {
@@ -5626,7 +5626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:28.740Z",
+    "last_updated": "2026-08-25T06:09:58.772Z",
     "original_repository": "hzxie/Awesome-3D-Scene-Generation",
     "original_repository_id": 928289012,
     "original_repository_sha": "266f44f2cf02a53638369cf3d1c67b82a3819f83",
