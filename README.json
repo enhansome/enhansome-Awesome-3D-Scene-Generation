@@ -94,7 +94,7 @@
                     "last_commit": "2026-08-22T01:33:25Z",
                     "owner": "kunifujiwara",
                     "repo": "VoxCity",
-                    "stars": 533
+                    "stars": 535
                   }
                 }
               ],
@@ -873,7 +873,7 @@
                     "last_commit": "2026-08-13T05:47:55Z",
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1058
+                    "stars": 1064
                   }
                 }
               ],
@@ -1838,7 +1838,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38614
+                    "stars": 38615
                   }
                 },
                 {
@@ -2744,7 +2744,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38614
+                    "stars": 38615
                   }
                 },
                 {
@@ -2789,7 +2789,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38614
+                    "stars": 38615
                   }
                 },
                 {
@@ -2864,7 +2864,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38614
+                    "stars": 38615
                   }
                 },
                 {
@@ -3545,7 +3545,7 @@
                     "last_commit": "2024-11-29T09:45:52Z",
                     "owner": "JeffWang987",
                     "repo": "DriveDreamer",
-                    "stars": 591
+                    "stars": 592
                   }
                 },
                 {
@@ -3860,7 +3860,7 @@
                     "last_commit": "2025-06-26T01:36:37Z",
                     "owner": "flymin",
                     "repo": "MagicDrive-V2",
-                    "stars": 725
+                    "stars": 726
                   }
                 },
                 {
@@ -3890,7 +3890,7 @@
                     "last_commit": "2026-01-23T12:07:17Z",
                     "owner": "nv-tlabs",
                     "repo": "InfiniCube",
-                    "stars": 138
+                    "stars": 139
                   }
                 },
                 {
@@ -5196,7 +5196,7 @@
                     "last_commit": "2025-05-17T14:53:04Z",
                     "owner": "roboterax",
                     "repo": "video-prediction-policy",
-                    "stars": 409
+                    "stars": 410
                   }
                 },
                 {
@@ -5353,7 +5353,7 @@
                     "last_commit": "2024-11-29T09:45:52Z",
                     "owner": "JeffWang987",
                     "repo": "DriveDreamer",
-                    "stars": 591
+                    "stars": 592
                   }
                 },
                 {
@@ -5626,7 +5626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:58.772Z",
+    "last_updated": "2026-08-25T07:24:11.357Z",
     "original_repository": "hzxie/Awesome-3D-Scene-Generation",
     "original_repository_id": 928289012,
     "original_repository_sha": "266f44f2cf02a53638369cf3d1c67b82a3819f83",
