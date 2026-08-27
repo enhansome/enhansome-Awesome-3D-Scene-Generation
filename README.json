@@ -46,10 +46,10 @@
                     "archived": false,
                     "id": 654905384,
                     "language": "Python",
-                    "last_commit": "2026-08-26T14:23:49Z",
+                    "last_commit": "2026-08-27T12:47:45Z",
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7224
+                    "stars": 7227
                   }
                 },
                 {
@@ -94,7 +94,7 @@
                     "last_commit": "2026-08-22T01:33:25Z",
                     "owner": "kunifujiwara",
                     "repo": "VoxCity",
-                    "stars": 535
+                    "stars": 537
                   }
                 }
               ],
@@ -173,10 +173,10 @@
                     "archived": false,
                     "id": 654905384,
                     "language": "Python",
-                    "last_commit": "2026-08-26T14:23:49Z",
+                    "last_commit": "2026-08-27T12:47:45Z",
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7224
+                    "stars": 7227
                   }
                 },
                 {
@@ -588,7 +588,7 @@
                     "last_commit": "2026-04-22T16:08:50Z",
                     "owner": "NVlabs",
                     "repo": "sage",
-                    "stars": 394
+                    "stars": 395
                   }
                 },
                 {
@@ -873,7 +873,7 @@
                     "last_commit": "2026-08-13T05:47:55Z",
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1133
+                    "stars": 1136
                   }
                 }
               ],
@@ -1838,7 +1838,7 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38630
+                    "stars": 38631
                   }
                 },
                 {
@@ -2617,7 +2617,7 @@
                     "last_commit": "2026-08-24T07:06:47Z",
                     "owner": "HorizonRobotics",
                     "repo": "EmbodiedGen",
-                    "stars": 642
+                    "stars": 643
                   }
                 },
                 {
@@ -2647,7 +2647,7 @@
                     "last_commit": "2025-11-25T10:42:48Z",
                     "owner": "SkyworkAI",
                     "repo": "Matrix-3D",
-                    "stars": 799
+                    "stars": 800
                   }
                 },
                 {
@@ -2744,7 +2744,7 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38630
+                    "stars": 38631
                   }
                 },
                 {
@@ -2789,7 +2789,7 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38630
+                    "stars": 38631
                   }
                 },
                 {
@@ -2864,7 +2864,7 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38630
+                    "stars": 38631
                   }
                 },
                 {
@@ -2939,7 +2939,7 @@
                     "last_commit": "2023-11-15T15:00:12Z",
                     "owner": "lukasHoel",
                     "repo": "text2room",
-                    "stars": 1088
+                    "stars": 1089
                   }
                 },
                 {
@@ -3074,7 +3074,7 @@
                     "last_commit": "2025-05-30T15:06:19Z",
                     "owner": "MattWallingford",
                     "repo": "360-1M",
-                    "stars": 94
+                    "stars": 93
                   }
                 },
                 {
@@ -5047,7 +5047,7 @@
                     "last_commit": "2026-04-22T16:08:50Z",
                     "owner": "NVlabs",
                     "repo": "sage",
-                    "stars": 394
+                    "stars": 395
                   }
                 }
               ],
@@ -5211,7 +5211,7 @@
                     "last_commit": "2026-08-24T17:12:21Z",
                     "owner": "RoboVerseOrg",
                     "repo": "RoboVerse",
-                    "stars": 1813
+                    "stars": 1819
                   }
                 },
                 {
@@ -5626,7 +5626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:34.721Z",
+    "last_updated": "2026-08-27T17:46:52.008Z",
     "original_repository_info": {
       "archived": false,
       "id": 928289012,
