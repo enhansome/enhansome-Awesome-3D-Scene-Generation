@@ -46,10 +46,10 @@
                     "archived": false,
                     "id": 654905384,
                     "language": "Python",
-                    "last_commit": "2026-08-05T01:40:06Z",
+                    "last_commit": "2026-08-26T14:23:49Z",
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7219
+                    "stars": 7224
                   }
                 },
                 {
@@ -161,7 +161,7 @@
                     "last_commit": "2023-04-07T11:02:38Z",
                     "owner": "allenai",
                     "repo": "procthor",
-                    "stars": 464
+                    "stars": 465
                   }
                 },
                 {
@@ -173,10 +173,10 @@
                     "archived": false,
                     "id": 654905384,
                     "language": "Python",
-                    "last_commit": "2026-08-05T01:40:06Z",
+                    "last_commit": "2026-08-26T14:23:49Z",
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7219
+                    "stars": 7224
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "last_commit": "2025-07-12T22:40:52Z",
                     "owner": "zzyunzhi",
                     "repo": "scene-language",
-                    "stars": 267
+                    "stars": 268
                   }
                 },
                 {
@@ -393,7 +393,7 @@
                     "last_commit": "2025-11-13T11:47:51Z",
                     "owner": "Scene-Weaver",
                     "repo": "SceneWeaver",
-                    "stars": 166
+                    "stars": 168
                   }
                 },
                 {
@@ -438,7 +438,7 @@
                     "last_commit": "2026-03-15T14:49:29Z",
                     "owner": "rxjfighting",
                     "repo": "DirectLayout",
-                    "stars": 35
+                    "stars": 36
                   }
                 },
                 {
@@ -483,7 +483,7 @@
                     "last_commit": "2026-06-20T18:45:11Z",
                     "owner": "nepfaff",
                     "repo": "scenesmith",
-                    "stars": 572
+                    "stars": 573
                   }
                 },
                 {
@@ -588,7 +588,7 @@
                     "last_commit": "2026-04-22T16:08:50Z",
                     "owner": "NVlabs",
                     "repo": "sage",
-                    "stars": 391
+                    "stars": 394
                   }
                 },
                 {
@@ -798,7 +798,7 @@
                     "last_commit": "2026-06-18T02:41:29Z",
                     "owner": "wangpuyi",
                     "repo": "SceneCode",
-                    "stars": 48
+                    "stars": 49
                   }
                 },
                 {
@@ -813,7 +813,7 @@
                     "last_commit": "2026-05-22T00:20:03Z",
                     "owner": "YxuanAr",
                     "repo": "Code-as-Room",
-                    "stars": 227
+                    "stars": 229
                   }
                 },
                 {
@@ -873,7 +873,7 @@
                     "last_commit": "2026-08-13T05:47:55Z",
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1110
+                    "stars": 1133
                   }
                 }
               ],
@@ -1404,7 +1404,7 @@
                     "last_commit": "2026-07-13T23:08:30Z",
                     "owner": "yuhengliu02",
                     "repo": "control-3d-scene",
-                    "stars": 70
+                    "stars": 71
                   }
                 },
                 {
@@ -1711,7 +1711,7 @@
                     "last_commit": "2026-04-18T01:12:49Z",
                     "owner": "manycore-research",
                     "repo": "SpatialGen",
-                    "stars": 410
+                    "stars": 411
                   }
                 },
                 {
@@ -1835,10 +1835,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38622
+                    "stars": 38630
                   }
                 },
                 {
@@ -2048,7 +2048,7 @@
                     "last_commit": "2026-08-12T13:12:51Z",
                     "owner": "francelico",
                     "repo": "PERSIST",
-                    "stars": 109
+                    "stars": 111
                   }
                 },
                 {
@@ -2617,7 +2617,7 @@
                     "last_commit": "2026-08-24T07:06:47Z",
                     "owner": "HorizonRobotics",
                     "repo": "EmbodiedGen",
-                    "stars": 640
+                    "stars": 642
                   }
                 },
                 {
@@ -2647,7 +2647,7 @@
                     "last_commit": "2025-11-25T10:42:48Z",
                     "owner": "SkyworkAI",
                     "repo": "Matrix-3D",
-                    "stars": 792
+                    "stars": 799
                   }
                 },
                 {
@@ -2741,10 +2741,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38622
+                    "stars": 38630
                   }
                 },
                 {
@@ -2786,10 +2786,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38622
+                    "stars": 38630
                   }
                 },
                 {
@@ -2861,10 +2861,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38622
+                    "stars": 38630
                   }
                 },
                 {
@@ -2939,7 +2939,7 @@
                     "last_commit": "2023-11-15T15:00:12Z",
                     "owner": "lukasHoel",
                     "repo": "text2room",
-                    "stars": 1089
+                    "stars": 1088
                   }
                 },
                 {
@@ -3239,7 +3239,7 @@
                     "last_commit": "2026-07-07T11:23:10Z",
                     "owner": "paulengstler",
                     "repo": "syncity",
-                    "stars": 681
+                    "stars": 680
                   }
                 },
                 {
@@ -3545,7 +3545,7 @@
                     "last_commit": "2024-11-29T09:45:52Z",
                     "owner": "JeffWang987",
                     "repo": "DriveDreamer",
-                    "stars": 593
+                    "stars": 594
                   }
                 },
                 {
@@ -3605,7 +3605,7 @@
                     "last_commit": "2024-12-06T16:45:28Z",
                     "owner": "eloialonso",
                     "repo": "diamond",
-                    "stars": 2096
+                    "stars": 2097
                   }
                 },
                 {
@@ -3860,7 +3860,7 @@
                     "last_commit": "2025-06-26T01:36:37Z",
                     "owner": "flymin",
                     "repo": "MagicDrive-V2",
-                    "stars": 727
+                    "stars": 728
                   }
                 },
                 {
@@ -3905,7 +3905,7 @@
                     "last_commit": "2025-07-25T07:45:55Z",
                     "owner": "runjiali-rl",
                     "repo": "vmem",
-                    "stars": 446
+                    "stars": 447
                   }
                 },
                 {
@@ -3920,7 +3920,7 @@
                     "last_commit": "2026-03-19T23:22:51Z",
                     "owner": "KIMGEONUNG",
                     "repo": "VideoFrom3D",
-                    "stars": 141
+                    "stars": 142
                   }
                 },
                 {
@@ -4025,7 +4025,7 @@
                     "last_commit": "2026-06-18T09:04:41Z",
                     "owner": "MiZhenxing",
                     "repo": "One4D",
-                    "stars": 116
+                    "stars": 117
                   }
                 },
                 {
@@ -4250,7 +4250,7 @@
                     "last_commit": "2025-09-11T10:07:12Z",
                     "owner": "ML-GSAI",
                     "repo": "FlexWorld",
-                    "stars": 134
+                    "stars": 135
                   }
                 },
                 {
@@ -4310,7 +4310,7 @@
                     "last_commit": "2026-03-30T06:32:00Z",
                     "owner": "SkyworkAI",
                     "repo": "Matrix-Game",
-                    "stars": 2314
+                    "stars": 2316
                   }
                 },
                 {
@@ -4325,7 +4325,7 @@
                     "last_commit": "2026-03-30T06:32:00Z",
                     "owner": "SkyworkAI",
                     "repo": "Matrix-Game",
-                    "stars": 2314
+                    "stars": 2316
                   }
                 },
                 {
@@ -4430,7 +4430,7 @@
                     "last_commit": "2026-06-10T07:10:23Z",
                     "owner": "Tencent-Hunyuan",
                     "repo": "HY-WorldPlay",
-                    "stars": 1585
+                    "stars": 1586
                   }
                 }
               ],
@@ -4493,7 +4493,7 @@
                 "last_commit": "2026-01-09T22:34:45Z",
                 "owner": "apple",
                 "repo": "ml-hypersim",
-                "stars": 2041
+                "stars": 2043
               }
             },
             {
@@ -4508,7 +4508,7 @@
                 "last_commit": "2025-09-02T18:06:02Z",
                 "owner": "kdmayer",
                 "repo": "SYNBUILD-3D",
-                "stars": 106
+                "stars": 107
               }
             }
           ],
@@ -4613,7 +4613,7 @@
                     "last_commit": "2024-02-16T20:32:34Z",
                     "owner": "daveredrum",
                     "repo": "SceneTex",
-                    "stars": 240
+                    "stars": 241
                   }
                 },
                 {
@@ -4897,7 +4897,7 @@
                     "last_commit": "2023-04-07T11:02:38Z",
                     "owner": "allenai",
                     "repo": "procthor",
-                    "stars": 464
+                    "stars": 465
                   }
                 },
                 {
@@ -4912,7 +4912,7 @@
                     "last_commit": "2025-04-02T15:01:15Z",
                     "owner": "allenai",
                     "repo": "Holodeck",
-                    "stars": 562
+                    "stars": 563
                   }
                 },
                 {
@@ -4987,7 +4987,7 @@
                     "last_commit": "2025-09-04T06:38:50Z",
                     "owner": "InternRobotics",
                     "repo": "InternUtopia",
-                    "stars": 1285
+                    "stars": 1286
                   }
                 },
                 {
@@ -5002,7 +5002,7 @@
                     "last_commit": "2025-08-12T02:56:41Z",
                     "owner": "tsinghua-fib-lab",
                     "repo": "EmbodiedCity",
-                    "stars": 300
+                    "stars": 299
                   }
                 },
                 {
@@ -5047,7 +5047,7 @@
                     "last_commit": "2026-04-22T16:08:50Z",
                     "owner": "NVlabs",
                     "repo": "sage",
-                    "stars": 391
+                    "stars": 394
                   }
                 }
               ],
@@ -5136,7 +5136,7 @@
                     "last_commit": "2024-05-31T01:32:29Z",
                     "owner": "Genesis-Embodied-AI",
                     "repo": "RoboGen",
-                    "stars": 1223
+                    "stars": 1224
                   }
                 },
                 {
@@ -5211,7 +5211,7 @@
                     "last_commit": "2026-08-24T17:12:21Z",
                     "owner": "RoboVerseOrg",
                     "repo": "RoboVerse",
-                    "stars": 1810
+                    "stars": 1813
                   }
                 },
                 {
@@ -5226,7 +5226,7 @@
                     "last_commit": "2026-02-25T11:23:41Z",
                     "owner": "ByteDance-Seed",
                     "repo": "VideoWorld",
-                    "stars": 796
+                    "stars": 797
                   }
                 },
                 {
@@ -5353,7 +5353,7 @@
                     "last_commit": "2024-11-29T09:45:52Z",
                     "owner": "JeffWang987",
                     "repo": "DriveDreamer",
-                    "stars": 593
+                    "stars": 594
                   }
                 },
                 {
@@ -5488,7 +5488,7 @@
                     "last_commit": "2024-05-31T01:57:02Z",
                     "owner": "wzzheng",
                     "repo": "OccSora",
-                    "stars": 204
+                    "stars": 205
                   }
                 },
                 {
@@ -5626,9 +5626,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:24:32.517Z",
-    "original_repository": "hzxie/Awesome-3D-Scene-Generation",
-    "original_repository_id": 928289012,
+    "last_updated": "2026-08-27T11:20:34.721Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 928289012,
+      "language": null,
+      "last_commit": "2026-08-11T02:49:45Z",
+      "owner": "hzxie",
+      "repo": "Awesome-3D-Scene-Generation",
+      "stars": 1084
+    },
     "original_repository_sha": "266f44f2cf02a53638369cf3d1c67b82a3819f83",
     "enhanced_repository": "enhansome/enhansome-Awesome-3D-Scene-Generation",
     "enhanced_repository_description": null,
