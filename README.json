@@ -65,7 +65,7 @@
                     "open_issues": 196,
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7233,
+                    "stars": 7234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -264,7 +264,7 @@
                     "open_issues": 196,
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7233,
+                    "stars": 7234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1272,7 +1272,7 @@
                     "open_issues": 2,
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1148,
+                    "stars": 1151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -2724,7 +2724,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38646,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -3743,7 +3743,7 @@
                     "open_issues": 0,
                     "owner": "qianmingduowan",
                     "repo": "Sat3DGen",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -4108,7 +4108,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38646,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4181,7 +4181,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38646,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4303,7 +4303,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38646,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -7416,7 +7416,7 @@
                     "open_issues": 24,
                     "owner": "allenai",
                     "repo": "Holodeck",
-                    "stars": 565,
+                    "stars": 566,
                     "topics": [
                       "3d-environment",
                       "ai2-thor",
@@ -7843,7 +7843,7 @@
                     "open_issues": 63,
                     "owner": "RoboVerseOrg",
                     "repo": "RoboVerse",
-                    "stars": 1839,
+                    "stars": 1840,
                     "topics": [
                       "imitation-learning",
                       "reinforcement-learning",
@@ -8239,7 +8239,7 @@
                     "open_issues": 1,
                     "owner": "xiaomi-research",
                     "repo": "drivelaw",
-                    "stars": 96,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -8456,7 +8456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:18.661Z",
+    "last_updated": "2026-08-29T12:46:30.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D scene generation papers. (IJCV 2026)",
