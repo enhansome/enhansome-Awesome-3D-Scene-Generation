@@ -65,7 +65,7 @@
                     "open_issues": 197,
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7259,
+                    "stars": 7263,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -237,7 +237,7 @@
                     "open_issues": 47,
                     "owner": "allenai",
                     "repo": "procthor",
-                    "stars": 469,
+                    "stars": 470,
                     "topics": [
                       "ai2-thor",
                       "computer-vision",
@@ -264,7 +264,7 @@
                     "open_issues": 197,
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7259,
+                    "stars": 7263,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -402,7 +402,7 @@
                     "open_issues": 5,
                     "owner": "atcelen",
                     "repo": "IDesign",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -714,7 +714,7 @@
                     "open_issues": 6,
                     "owner": "nepfaff",
                     "repo": "scenesmith",
-                    "stars": 584,
+                    "stars": 585,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -798,7 +798,7 @@
                     "open_issues": 2,
                     "owner": "tsinghua-fib-lab",
                     "repo": "UrbanWorld2.0",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -861,7 +861,7 @@
                     "open_issues": 5,
                     "owner": "NVlabs",
                     "repo": "sage",
-                    "stars": 405,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1026,10 +1026,10 @@
                     "language": "Jupyter Notebook",
                     "license": "NOASSERTION",
                     "last_commit": "2026-05-28T03:37:24Z",
-                    "open_issues": 30,
+                    "open_issues": 32,
                     "owner": "Roblox",
                     "repo": "cube",
-                    "stars": 1251,
+                    "stars": 1250,
                     "topics": [
                       "3d",
                       "3d-aigc",
@@ -1119,7 +1119,7 @@
                     "open_issues": 0,
                     "owner": "AgibotGeneral",
                     "repo": "MANSION",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1272,7 +1272,7 @@
                     "open_issues": 3,
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1246,
+                    "stars": 1247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1349,7 +1349,7 @@
                     "open_issues": 3,
                     "owner": "cy94",
                     "repo": "sceneformer",
-                    "stars": 149,
+                    "stars": 150,
                     "topics": [
                       "scene-generation"
                     ]
@@ -1564,7 +1564,7 @@
                     "open_issues": 35,
                     "owner": "tangjiapeng",
                     "repo": "DiffuScene",
-                    "stars": 347,
+                    "stars": 348,
                     "topics": [
                       "diffusion-model",
                       "diffusion-models",
@@ -2154,7 +2154,7 @@
                     "open_issues": 53,
                     "owner": "NVlabs",
                     "repo": "imaginaire",
-                    "stars": 4080,
+                    "stars": 4081,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -2724,7 +2724,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38722,
+                    "stars": 38733,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2881,7 +2881,7 @@
                     "open_issues": 6,
                     "owner": "quan-meng",
                     "repo": "lt3sd",
-                    "stars": 196,
+                    "stars": 197,
                     "topics": [
                       "3d-diffusion",
                       "scene-generation"
@@ -3023,7 +3023,7 @@
                     "open_issues": 18,
                     "owner": "imlixinyang",
                     "repo": "FlashWorld",
-                    "stars": 849,
+                    "stars": 851,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3065,7 +3065,7 @@
                     "open_issues": 2,
                     "owner": "francelico",
                     "repo": "PERSIST",
-                    "stars": 116,
+                    "stars": 117,
                     "topics": [
                       "artificial-intelligence",
                       "diffusion-models",
@@ -3134,7 +3134,7 @@
                     "open_issues": 1,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 122,
+                    "stars": 123,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -3396,7 +3396,7 @@
                     "open_issues": 0,
                     "owner": "qianmingduowan",
                     "repo": "Sat2Density",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3701,7 +3701,7 @@
                     "open_issues": 1,
                     "owner": "qianmingduowan",
                     "repo": "Sat2Densitypp",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3743,7 +3743,7 @@
                     "open_issues": 0,
                     "owner": "qianmingduowan",
                     "repo": "Sat3DGen",
-                    "stars": 132,
+                    "stars": 133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3897,7 +3897,7 @@
                     "open_issues": 8,
                     "owner": "HorizonRobotics",
                     "repo": "EmbodiedGen",
-                    "stars": 662,
+                    "stars": 663,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3949,7 +3949,7 @@
                     "open_issues": 31,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-3D",
-                    "stars": 816,
+                    "stars": 817,
                     "topics": [
                       "3d-generation",
                       "3d-reconstruction",
@@ -4108,7 +4108,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38722,
+                    "stars": 38733,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4181,7 +4181,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38722,
+                    "stars": 38733,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4303,7 +4303,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38722,
+                    "stars": 38733,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -5411,7 +5411,7 @@
                     "open_issues": 8,
                     "owner": "eloialonso",
                     "repo": "diamond",
-                    "stars": 2105,
+                    "stars": 2104,
                     "topics": [
                       "artificial-intelligence",
                       "atari",
@@ -5546,7 +5546,7 @@
                     "open_issues": 19,
                     "owner": "zju3dv",
                     "repo": "street_crafter",
-                    "stars": 335,
+                    "stars": 334,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -5916,7 +5916,7 @@
                     "open_issues": 0,
                     "owner": "mschneider456",
                     "repo": "worldexplorer",
-                    "stars": 195,
+                    "stars": 196,
                     "topics": [
                       "3d-gaussian-splatting",
                       "scene-generation",
@@ -6074,7 +6074,7 @@
                     "open_issues": 1,
                     "owner": "flymin",
                     "repo": "MagicDrive3D",
-                    "stars": 295,
+                    "stars": 296,
                     "topics": [
                       "3d",
                       "autonomous-driving",
@@ -6261,7 +6261,7 @@
                     "open_issues": 48,
                     "owner": "Drexubery",
                     "repo": "ViewCrafter",
-                    "stars": 1592,
+                    "stars": 1593,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -6473,7 +6473,7 @@
                     "open_issues": 9,
                     "owner": "microsoft",
                     "repo": "mineworld",
-                    "stars": 491,
+                    "stars": 492,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -6491,10 +6491,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-30T06:32:00Z",
-                    "open_issues": 34,
+                    "open_issues": 35,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-Game",
-                    "stars": 2328,
+                    "stars": 2330,
                     "topics": [
                       "genie",
                       "interactive-video",
@@ -6521,10 +6521,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-30T06:32:00Z",
-                    "open_issues": 34,
+                    "open_issues": 35,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-Game",
-                    "stars": 2328,
+                    "stars": 2330,
                     "topics": [
                       "genie",
                       "interactive-video",
@@ -6755,7 +6755,7 @@
                 "open_issues": 67,
                 "owner": "facebookresearch",
                 "repo": "Replica-Dataset",
-                "stars": 1323,
+                "stars": 1325,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:53:49.816Z"
@@ -7389,7 +7389,7 @@
                     "open_issues": 47,
                     "owner": "allenai",
                     "repo": "procthor",
-                    "stars": 469,
+                    "stars": 470,
                     "topics": [
                       "ai2-thor",
                       "computer-vision",
@@ -7416,7 +7416,7 @@
                     "open_issues": 24,
                     "owner": "allenai",
                     "repo": "Holodeck",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": [
                       "3d-environment",
                       "ai2-thor",
@@ -7486,7 +7486,7 @@
                     "open_issues": 5,
                     "owner": "metadriverse",
                     "repo": "metaurban",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -7591,7 +7591,7 @@
                     "open_issues": 0,
                     "owner": "AgibotGeneral",
                     "repo": "MANSION",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -7612,7 +7612,7 @@
                     "open_issues": 5,
                     "owner": "NVlabs",
                     "repo": "sage",
-                    "stars": 405,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -7840,10 +7840,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-08T20:58:50Z",
-                    "open_issues": 64,
+                    "open_issues": 65,
                     "owner": "RoboVerseOrg",
                     "repo": "RoboVerse",
-                    "stars": 1860,
+                    "stars": 1859,
                     "topics": [
                       "imitation-learning",
                       "reinforcement-learning",
@@ -8081,7 +8081,7 @@
                     "open_issues": 25,
                     "owner": "wzzheng",
                     "repo": "OccWorld",
-                    "stars": 583,
+                    "stars": 584,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -8456,7 +8456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:37:57.002Z",
+    "last_updated": "2026-09-11T11:39:24.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D scene generation papers. (IJCV 2026)",
