@@ -124,7 +124,7 @@
                     "id": 847006902,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T13:57:37Z",
+                    "last_commit": "2026-09-12T08:52:49Z",
                     "open_issues": 8,
                     "owner": "kunifujiwara",
                     "repo": "VoxCity",
@@ -237,7 +237,7 @@
                     "open_issues": 47,
                     "owner": "allenai",
                     "repo": "procthor",
-                    "stars": 470,
+                    "stars": 471,
                     "topics": [
                       "ai2-thor",
                       "computer-vision",
@@ -861,7 +861,7 @@
                     "open_issues": 5,
                     "owner": "NVlabs",
                     "repo": "sage",
-                    "stars": 406,
+                    "stars": 408,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1272,7 +1272,7 @@
                     "open_issues": 3,
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1247,
+                    "stars": 1255,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1618,7 +1618,7 @@
                     "open_issues": 17,
                     "owner": "PhyScene",
                     "repo": "PhyScene",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1665,7 +1665,7 @@
                     "open_issues": 0,
                     "owner": "VDIGPKU",
                     "repo": "GALA3D",
-                    "stars": 306,
+                    "stars": 307,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -2674,13 +2674,13 @@
                   "repo_info": {
                     "archived": false,
                     "description": null,
-                    "homepage": null,
+                    "homepage": "https://apple-aiml-research.github.io/ml-gsn/",
                     "id": 354895953,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2021-09-24T08:13:30Z",
+                    "last_commit": "2026-09-11T15:58:26Z",
                     "open_issues": 9,
-                    "owner": "apple",
+                    "owner": "apple-aiml-research",
                     "repo": "ml-gsn",
                     "stars": 300,
                     "topics": []
@@ -2699,9 +2699,9 @@
                     "id": 518183731,
                     "language": null,
                     "license": "NOASSERTION",
-                    "last_commit": "2022-07-29T00:31:23Z",
+                    "last_commit": "2026-09-11T15:56:57Z",
                     "open_issues": 1,
-                    "owner": "apple",
+                    "owner": "apple-aiml-research",
                     "repo": "ml-gaudi",
                     "stars": 618,
                     "topics": []
@@ -2724,7 +2724,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38733,
+                    "stars": 38739,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -3065,7 +3065,7 @@
                     "open_issues": 2,
                     "owner": "francelico",
                     "repo": "PERSIST",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": [
                       "artificial-intelligence",
                       "diffusion-models",
@@ -3256,9 +3256,9 @@
                     "id": 379034357,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2021-06-21T20:26:22Z",
+                    "last_commit": "2026-09-11T15:56:30Z",
                     "open_issues": 1,
-                    "owner": "apple",
+                    "owner": "apple-aiml-research",
                     "repo": "ml-envmapnet",
                     "stars": 83,
                     "topics": []
@@ -3743,7 +3743,7 @@
                     "open_issues": 0,
                     "owner": "qianmingduowan",
                     "repo": "Sat3DGen",
-                    "stars": 133,
+                    "stars": 134,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3897,7 +3897,7 @@
                     "open_issues": 8,
                     "owner": "HorizonRobotics",
                     "repo": "EmbodiedGen",
-                    "stars": 663,
+                    "stars": 666,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3918,7 +3918,7 @@
                     "open_issues": 35,
                     "owner": "Tencent-Hunyuan",
                     "repo": "HunyuanWorld-1.0",
-                    "stars": 2930,
+                    "stars": 2931,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -3949,7 +3949,7 @@
                     "open_issues": 31,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-3D",
-                    "stars": 817,
+                    "stars": 818,
                     "topics": [
                       "3d-generation",
                       "3d-reconstruction",
@@ -4108,7 +4108,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38733,
+                    "stars": 38739,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4181,7 +4181,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38733,
+                    "stars": 38739,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4303,7 +4303,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38733,
+                    "stars": 38739,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -5525,7 +5525,7 @@
                     "open_issues": 1,
                     "owner": "yanty123",
                     "repo": "DrivingSphere",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -6005,7 +6005,7 @@
                     "open_issues": 8,
                     "owner": "Westlake-AGI-Lab",
                     "repo": "WorldForge",
-                    "stars": 173,
+                    "stars": 174,
                     "topics": [
                       "3d-generation",
                       "4d-generation",
@@ -6310,7 +6310,7 @@
                     "open_issues": 38,
                     "owner": "SenseTime-FVG",
                     "repo": "OpenDWM",
-                    "stars": 420,
+                    "stars": 421,
                     "topics": [
                       "autonomous-driving",
                       "diffusion-models",
@@ -6772,9 +6772,9 @@
                 "id": 313435134,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-01-09T22:34:45Z",
+                "last_commit": "2026-09-11T16:00:24Z",
                 "open_issues": 0,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-hypersim",
                 "stars": 2047,
                 "topics": []
@@ -7389,7 +7389,7 @@
                     "open_issues": 47,
                     "owner": "allenai",
                     "repo": "procthor",
-                    "stars": 470,
+                    "stars": 471,
                     "topics": [
                       "ai2-thor",
                       "computer-vision",
@@ -7444,7 +7444,7 @@
                     "open_issues": 17,
                     "owner": "PhyScene",
                     "repo": "PhyScene",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -7612,7 +7612,7 @@
                     "open_issues": 5,
                     "owner": "NVlabs",
                     "repo": "sage",
-                    "stars": 406,
+                    "stars": 408,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -8197,7 +8197,7 @@
                     "open_issues": 1,
                     "owner": "yanty123",
                     "repo": "DrivingSphere",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -8456,7 +8456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:39:24.713Z",
+    "last_updated": "2026-09-12T11:03:41.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D scene generation papers. (IJCV 2026)",
