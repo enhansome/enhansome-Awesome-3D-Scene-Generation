@@ -65,7 +65,7 @@
                     "open_issues": 197,
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7266,
+                    "stars": 7270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -80,9 +80,9 @@
                     "description": "Large-Scale Stream Power Erosion",
                     "homepage": null,
                     "id": 587658891,
-                    "language": "C",
+                    "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T20:45:55Z",
+                    "last_commit": "2026-09-17T15:03:39Z",
                     "open_issues": 0,
                     "owner": "H-Schott",
                     "repo": "StreamPowerErosion",
@@ -107,7 +107,7 @@
                     "open_issues": 1,
                     "owner": "city-super",
                     "repo": "ProcGS",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -128,7 +128,7 @@
                     "open_issues": 8,
                     "owner": "kunifujiwara",
                     "repo": "VoxCity",
-                    "stars": 544,
+                    "stars": 545,
                     "topics": [
                       "3d-city-model",
                       "3d-city-models",
@@ -264,7 +264,7 @@
                     "open_issues": 197,
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7266,
+                    "stars": 7270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -507,7 +507,7 @@
                     "open_issues": 1,
                     "owner": "dw-dengwei",
                     "repo": "TreeSearchGen",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -714,7 +714,7 @@
                     "open_issues": 6,
                     "owner": "nepfaff",
                     "repo": "scenesmith",
-                    "stars": 596,
+                    "stars": 598,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -882,7 +882,7 @@
                     "open_issues": 1,
                     "owner": "adamcwan",
                     "repo": "NaLA-code",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1178,7 +1178,7 @@
                     "id": 1243146433,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-05-22T00:20:03Z",
+                    "last_commit": "2026-09-18T08:21:30Z",
                     "open_issues": 2,
                     "owner": "YxuanAr",
                     "repo": "Code-as-Room",
@@ -1203,7 +1203,7 @@
                     "open_issues": 1,
                     "owner": "dw-dengwei",
                     "repo": "TreeSearchGen",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1272,10 +1272,52 @@
                     "open_issues": 4,
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1278,
+                    "stars": 1282,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SceneMosaic",
+                  "description": "arXiv SceneMosaic SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution",
+                    "homepage": "https://rxjfighting.github.io/SceneMosaic/",
+                    "id": 1356067468,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-07T04:40:28Z",
+                    "open_issues": 0,
+                    "owner": "rxjfighting",
+                    "repo": "SceneMosaic",
+                    "stars": 40,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-18T11:35:44.898Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "4DSynth",
+                  "description": "arXiv 4DSynth 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "4DSynth: an agentic pipeline for controllable 4D world synthesis",
+                    "homepage": "https://qzephyr.github.io/4DSynth/",
+                    "id": 1349385495,
+                    "language": "Python",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-09-03T08:08:38Z",
+                    "open_issues": 0,
+                    "owner": "QZepHyr",
+                    "repo": "4DSynth",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-18T11:35:44.898Z"
                 }
               ],
               "description": null,
@@ -2332,7 +2374,7 @@
                     "open_issues": 1,
                     "owner": "OrangeSodahub",
                     "repo": "SceneCraft",
-                    "stars": 244,
+                    "stars": 245,
                     "topics": [
                       "generation",
                       "scene"
@@ -2724,7 +2766,7 @@
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38781,
+                    "stars": 38788,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2827,7 +2869,7 @@
                     "open_issues": 0,
                     "owner": "yuhengliu02",
                     "repo": "pyramid-discrete-diffusion",
-                    "stars": 139,
+                    "stars": 140,
                     "topics": [
                       "3d-scene-generation",
                       "diffusion-models",
@@ -3134,7 +3176,7 @@
                     "open_issues": 1,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -3145,6 +3187,69 @@
                     ]
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GaussianGPT",
+                  "description": "ECCV GaussianGPT GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ECCV'26 Oral] Our method creates 3D Gaussian scenes completely autoregressively, allowing for generation, completion, and outpainting with the same model.",
+                    "homepage": "https://nicolasvonluetzow.github.io/GaussianGPT/",
+                    "id": 1190850406,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-31T16:24:48Z",
+                    "open_issues": 1,
+                    "owner": "nicolasvonluetzow",
+                    "repo": "GaussianGPT",
+                    "stars": 419,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-18T11:35:44.898Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SpatialCrafter",
+                  "description": "SIGGRAPH Asia SpatialCrafter SpatialCrafter: Single Image World Modeling with Generative 3D Proxies",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is an official implementation of \"SpatialCrafter: Single Image World Modeling with Generative 3D Proxies\"",
+                    "homepage": null,
+                    "id": 1340590586,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-09-02T04:45:36Z",
+                    "open_issues": 2,
+                    "owner": "fangchuan",
+                    "repo": "SpatialCrafter",
+                    "stars": 29,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-18T11:35:44.898Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "terrain-diffusion",
+                  "description": "SIGGRAPH InfiniteDiffusion InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[SIGGRAPH 2026] InfiniteDiffusion & Terrain Diffusion: Procedural generation with diffusion models",
+                    "homepage": "https://xandergos.github.io/terrain-diffusion/",
+                    "id": 869573042,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-12T03:58:54Z",
+                    "open_issues": 6,
+                    "owner": "xandergos",
+                    "repo": "terrain-diffusion",
+                    "stars": 1395,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-18T11:35:44.898Z"
                 },
                 {
                   "node_type": "item",
@@ -3187,6 +3292,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ABot-Earth-0.5",
+                  "description": "arXiv ABot-Earth-0.5 ABot-Earth-0.5: Generative 3D Earth Model",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Generative 3D Earth Model by AMap-cvlab",
+                    "homepage": null,
+                    "id": 1262476012,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-09-14T03:04:42Z",
+                    "open_issues": 0,
+                    "owner": "amap-cvlab",
+                    "repo": "ABot-Earth-0.5",
+                    "stars": 218,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-18T11:35:44.898Z"
                 }
               ],
               "description": null,
@@ -3543,7 +3669,7 @@
                     "open_issues": 2,
                     "owner": "ShijieZhou-UCLA",
                     "repo": "DreamScene360",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3897,7 +4023,7 @@
                     "open_issues": 8,
                     "owner": "HorizonRobotics",
                     "repo": "EmbodiedGen",
-                    "stars": 675,
+                    "stars": 680,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -3918,7 +4044,7 @@
                     "open_issues": 35,
                     "owner": "Tencent-Hunyuan",
                     "repo": "HunyuanWorld-1.0",
-                    "stars": 2932,
+                    "stars": 2933,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -3949,7 +4075,7 @@
                     "open_issues": 31,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-3D",
-                    "stars": 821,
+                    "stars": 822,
                     "topics": [
                       "3d-generation",
                       "3d-reconstruction",
@@ -4084,7 +4210,7 @@
                     "open_issues": 108,
                     "owner": "vt-vl-lab",
                     "repo": "3d-photo-inpainting",
-                    "stars": 7093,
+                    "stars": 7092,
                     "topics": [
                       "3d-photo",
                       "novel-view-synthesis"
@@ -4108,7 +4234,7 @@
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38781,
+                    "stars": 38788,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4181,7 +4307,7 @@
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38781,
+                    "stars": 38788,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4303,7 +4429,7 @@
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38781,
+                    "stars": 38788,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4965,6 +5091,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "lyra",
+                  "description": "SIGGRAPH Asia Lyra 2.0 Lyra 2.0: Explorable Generative 3D Worlds",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Project Lyra: Open Generative 3D World Models",
+                    "homepage": "https://research.nvidia.com/labs/sil/projects/lyra2/",
+                    "id": 1053508243,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-07-20T17:07:42Z",
+                    "open_issues": 25,
+                    "owner": "nv-tlabs",
+                    "repo": "lyra",
+                    "stars": 2311,
+                    "topics": [
+                      "3d",
+                      "diffusion",
+                      "gaussians",
+                      "video",
+                      "world-model"
+                    ]
+                  },
+                  "first_seen": "2026-09-18T11:35:44.898Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "OPaMa",
                   "description": "arXiv OPa-Ma OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting",
                   "children": [],
@@ -5386,7 +5539,7 @@
                     "open_issues": 23,
                     "owner": "OpenDriveLab",
                     "repo": "Vista",
-                    "stars": 898,
+                    "stars": 899,
                     "topics": [
                       "autonomous-driving",
                       "video-generation",
@@ -5411,7 +5564,7 @@
                     "open_issues": 9,
                     "owner": "eloialonso",
                     "repo": "diamond",
-                    "stars": 2107,
+                    "stars": 2106,
                     "topics": [
                       "artificial-intelligence",
                       "atari",
@@ -5793,7 +5946,7 @@
                     "open_issues": 22,
                     "owner": "flymin",
                     "repo": "MagicDrive-V2",
-                    "stars": 729,
+                    "stars": 728,
                     "topics": [
                       "autonomous-driving",
                       "diffusion-models",
@@ -6232,7 +6385,7 @@
                     "open_issues": 5,
                     "owner": "YvanYin",
                     "repo": "DrivingWorld",
-                    "stars": 247,
+                    "stars": 246,
                     "topics": [
                       "autonomous-driving",
                       "driving-world-model",
@@ -6310,7 +6463,7 @@
                     "open_issues": 38,
                     "owner": "SenseTime-FVG",
                     "repo": "OpenDWM",
-                    "stars": 421,
+                    "stars": 420,
                     "topics": [
                       "autonomous-driving",
                       "diffusion-models",
@@ -6423,7 +6576,7 @@
                     "open_issues": 5,
                     "owner": "xizaoqu",
                     "repo": "WorldMem",
-                    "stars": 392,
+                    "stars": 393,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -6494,7 +6647,7 @@
                     "open_issues": 35,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-Game",
-                    "stars": 2335,
+                    "stars": 2336,
                     "topics": [
                       "genie",
                       "interactive-video",
@@ -6524,7 +6677,7 @@
                     "open_issues": 35,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-Game",
-                    "stars": 2335,
+                    "stars": 2336,
                     "topics": [
                       "genie",
                       "interactive-video",
@@ -6776,7 +6929,7 @@
                 "open_issues": 0,
                 "owner": "apple-aiml-research",
                 "repo": "ml-hypersim",
-                "stars": 2050,
+                "stars": 2051,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:53:49.816Z"
@@ -7340,7 +7493,7 @@
                     "open_issues": 0,
                     "owner": "liangpan99",
                     "repo": "TokenHSI",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -7733,7 +7886,7 @@
                     "open_issues": 6,
                     "owner": "Genesis-Embodied-AI",
                     "repo": "RoboGen",
-                    "stars": 1227,
+                    "stars": 1228,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -7987,6 +8140,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "4DSynth",
+                  "description": "arXiv 4DSynth 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "4DSynth: an agentic pipeline for controllable 4D world synthesis",
+                    "homepage": "https://qzephyr.github.io/4DSynth/",
+                    "id": 1349385495,
+                    "language": "Python",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-09-03T08:08:38Z",
+                    "open_issues": 0,
+                    "owner": "QZepHyr",
+                    "repo": "4DSynth",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-18T11:35:44.898Z"
                 }
               ],
               "description": null,
@@ -8151,7 +8325,7 @@
                     "open_issues": 23,
                     "owner": "OpenDriveLab",
                     "repo": "Vista",
-                    "stars": 898,
+                    "stars": 899,
                     "topics": [
                       "autonomous-driving",
                       "video-generation",
@@ -8344,7 +8518,7 @@
                     "open_issues": 5,
                     "owner": "YvanYin",
                     "repo": "DrivingWorld",
-                    "stars": 247,
+                    "stars": 246,
                     "topics": [
                       "autonomous-driving",
                       "driving-world-model",
@@ -8456,7 +8630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:56:57.163Z",
+    "last_updated": "2026-09-18T11:35:44.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D scene generation papers. (IJCV 2026)",
@@ -8464,7 +8638,7 @@
       "id": 928289012,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-11T02:49:45Z",
+      "last_commit": "2026-09-18T11:07:36Z",
       "open_issues": 1,
       "owner": "hzxie",
       "repo": "Awesome-3D-Scene-Generation",
@@ -8476,7 +8650,7 @@
         "paper-review"
       ]
     },
-    "original_repository_sha": "266f44f2cf02a53638369cf3d1c67b82a3819f83",
+    "original_repository_sha": "80cad85f56724baf0a7b9ddcfb5514fb436f813b",
     "enhanced_repository": "enhansome/enhansome-Awesome-3D-Scene-Generation",
     "enhanced_repository_description": null,
     "title": "Awesome Overview with stars"
