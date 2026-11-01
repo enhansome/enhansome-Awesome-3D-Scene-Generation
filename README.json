@@ -124,11 +124,11 @@
                     "id": 847006902,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-31T09:53:13Z",
+                    "last_commit": "2026-11-01T01:51:19Z",
                     "open_issues": 2,
                     "owner": "kunifujiwara",
                     "repo": "VoxCity",
-                    "stars": 571,
+                    "stars": 573,
                     "topics": [
                       "3d-city-model",
                       "3d-city-models",
@@ -1182,7 +1182,7 @@
                     "open_issues": 1,
                     "owner": "wangpuyi",
                     "repo": "SceneCode",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -1293,7 +1293,7 @@
                     "open_issues": 6,
                     "owner": "Tencent-Hunyuan",
                     "repo": "Hunyuan3D-WorldClaw",
-                    "stars": 1426,
+                    "stars": 1430,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -2522,7 +2522,7 @@
                     "open_issues": 1,
                     "owner": "hzxie",
                     "repo": "GaussianCity",
-                    "stars": 341,
+                    "stars": 342,
                     "topics": [
                       "3d-aigc",
                       "3d-generation",
@@ -2659,7 +2659,7 @@
                     "open_issues": 6,
                     "owner": "manycore-research",
                     "repo": "SpatialGen",
-                    "stars": 423,
+                    "stars": 424,
                     "topics": [
                       "image-generation",
                       "layout",
@@ -2848,7 +2848,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39069,
+                    "stars": 39080,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -3303,7 +3303,7 @@
                     "id": 1340590586,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-02T04:45:36Z",
+                    "last_commit": "2026-11-01T04:19:10Z",
                     "open_issues": 2,
                     "owner": "fangchuan",
                     "repo": "SpatialCrafter",
@@ -4153,7 +4153,7 @@
                     "open_issues": 8,
                     "owner": "HorizonRobotics",
                     "repo": "EmbodiedGen",
-                    "stars": 712,
+                    "stars": 713,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:53:49.816Z"
@@ -4174,7 +4174,7 @@
                     "open_issues": 36,
                     "owner": "Tencent-Hunyuan",
                     "repo": "HunyuanWorld-1.0",
-                    "stars": 2958,
+                    "stars": 2957,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -4364,7 +4364,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39069,
+                    "stars": 39080,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4437,7 +4437,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39069,
+                    "stars": 39080,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -4559,7 +4559,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39069,
+                    "stars": 39080,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -6756,7 +6756,7 @@
                     "open_issues": 44,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-Game",
-                    "stars": 2814,
+                    "stars": 2818,
                     "topics": [
                       "genie",
                       "interactive-video",
@@ -6786,7 +6786,7 @@
                     "open_issues": 44,
                     "owner": "SkyworkAI",
                     "repo": "Matrix-Game",
-                    "stars": 2814,
+                    "stars": 2818,
                     "topics": [
                       "genie",
                       "interactive-video",
@@ -8152,7 +8152,7 @@
                     "open_issues": 13,
                     "owner": "ByteDance-Seed",
                     "repo": "VideoWorld",
-                    "stars": 806,
+                    "stars": 807,
                     "topics": [
                       "research"
                     ]
@@ -8760,7 +8760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T12:55:11.179Z",
+    "last_updated": "2026-11-01T13:40:41.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D scene generation papers. (IJCV 2026)",
